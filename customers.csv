@@ -1,0 +1,1001 @@
+id,first_name,last_name,country,city,street,housenumber,date_of_birth,tax_id
+1111,Kenneth,Tucker,Serbia,Niš,Coleman Trail,70,1987-12-27,704561284
+1112,Lawrence,Brooks,Philippines,Paitan Este,Onsgard Park,93,1944-10-10,347398604
+1113,Carolyn,Patterson,Brazil,Corumbá,Golf Course Avenue,196,1989-07-14,755983430
+1114,Brandon,Turner,Canada,Prévost,Cardinal Lane,1,1967-02-12,190841734
+1115,Denise,Elliott,Indonesia,Saseel,Boyd Point,4562,1971-08-09,577224389
+1116,Frances,Vasquez,Japan,Oyabe,Karstens Alley,568,1992-01-28,237674886
+1117,Amanda,Kennedy,Canada,Sainte-Anne-des-Plaines,Redwing Trail,9,1989-08-14,320337747
+1118,Marie,Young,Poland,Myślenice,Westridge Hill,6982,1964-07-07,298846455
+1119,Tina,Knight,France,Morangis,Continental Lane,4766,1949-09-28,957197820
+1120,Barbara,Flores,China,Xinjie,Arapahoe Point,3,1940-12-25,988623675
+1121,Janet,Wood,United States,San Antonio,Nova Avenue,3,1955-11-21,704387667
+1122,Judith,Grant,Argentina,Capilla del Monte,Hauk Alley,5184,1966-10-12,430983044
+1123,Julie,Perkins,Indonesia,Rungkang,Tennessee Point,25975,1936-01-31,146491193
+1124,Jean,Gardner,Dominican Republic,Piedra Blanca,Westridge Junction,503,1960-03-01,980883074
+1125,Pamela,Stevens,Brazil,Adamantina,Fordem Crossing,9266,1973-05-13,337206763
+1126,Shawn,Hamilton,Brazil,Lauro de Freitas,Onsgard Crossing,22,1982-09-25,611193246
+1127,Ruby,Edwards,Bulgaria,Kostinbrod,Dexter Parkway,03685,1958-08-01,430897669
+1128,Christopher,Brooks,United States,Colorado Springs,Lake View Crossing,98761,1980-04-04,795063229
+1129,Willie,Bryant,Nepal,Bīrganj,Brentwood Parkway,989,1931-07-27,321052272
+1130,Raymond,Martinez,Russia,Volokonovka,Linden Hill,7708,1960-06-26,822088505
+1131,Joe,Burns,Russia,Ikey,Dixon Junction,429,1957-07-15,155237461
+1132,Albert,Alvarez,Madagascar,Ampahana,Sage Junction,3999,1942-02-11,191862991
+1133,Willie,Palmer,Portugal,Santa Marta de Penaguião,Sullivan Plaza,34157,1960-12-29,546539514
+1134,Cynthia,Armstrong,China,Du’ermenqin,Merrick Pass,7272,1952-12-07,242566257
+1135,Chris,Cunningham,China,Huangshapu,Westport Terrace,5,1968-08-08,633661760
+1136,Virginia,Little,Greece,Agios Dimitrios,Cambridge Parkway,483,1969-12-14,454597233
+1137,Todd,Morales,Russia,Kunashak,Express Plaza,42642,1965-04-07,614468186
+1138,Brian,Bishop,China,Kunyang,Vahlen Circle,0179,1953-01-20,304225817
+1139,Barbara,Jackson,Indonesia,Tubuhue,Quincy Alley,56958,1958-10-22,240138505
+1140,Patricia,Scott,Argentina,Gobernador Gálvez,Vahlen Avenue,44,1995-12-28,109990187
+1141,Denise,Kim,Guadeloupe,Pointe-à-Pitre,Browning Hill,246,1984-12-31,458548149
+1142,Jason,Banks,Poland,Końskowola,School Road,6366,1961-07-06,797966175
+1143,Jerry,Hamilton,China,Yuanquan,International Junction,8201,1997-12-02,210903373
+1144,Karen,Duncan,Czech Republic,Nedakonice,Bayside Park,75,1992-10-19,541311801
+1145,David,Martinez,France,Nevers,Schurz Street,5,1993-12-04,908290761
+1146,Helen,Hansen,Mexico,Benito Juarez,Mosinee Pass,72186,1940-05-05,759930564
+1147,Jane,Garrett,Indonesia,Telaga,Welch Crossing,5037,1956-08-15,451566738
+1148,Rose,Ramirez,China,Cuozheqiangma,Hanover Court,79806,1960-01-03,603168035
+1149,Philip,Burke,France,Remiremont,Gina Place,51704,1944-06-12,825283705
+1150,Lori,Snyder,Indonesia,Wonocoyo Utara,Northwestern Way,3829,1957-01-05,456752552
+1151,Lawrence,Carpenter,New Zealand,Lower Hutt,Sachs Court,934,1965-12-01,334600317
+1152,Margaret,Mcdonald,China,Hujiaying,Vidon Plaza,487,1972-03-16,285849795
+1153,Andrea,Parker,Martinique,Fort-de-France,Bultman Pass,20,1952-12-18,931522057
+1154,Keith,Scott,Indonesia,Banjar Tengahbelayu,Harbort Street,324,1946-11-22,377943144
+1155,Amanda,Fisher,Argentina,General Belgrano,Alpine Drive,43880,1961-08-31,732596735
+1156,George,Perkins,Portugal,Madalena,Oak Pass,402,1951-05-07,978570402
+1157,Dorothy,Diaz,Indonesia,Pergan,Hoard Street,94591,1955-03-23,382862782
+1158,Amy,Dixon,Indonesia,Ngawen,Golf View Pass,44,1974-05-08,198593827
+1159,Diana,Meyer,Indonesia,Umbultanjung,Dahle Trail,743,1956-09-19,337749967
+1160,Shirley,Jones,China,Xiakou,Schurz Center,987,1938-08-07,444547043
+1161,Alice,Patterson,New Zealand,Porirua,Donald Pass,355,1975-06-25,769959182
+1162,Fred,Moreno,Philippines,Masinloc,Jackson Alley,6949,1960-10-23,769074256
+1163,Lisa,Long,Malta,Ta’ Xbiex,Sloan Plaza,4114,1942-06-03,646019179
+1164,Randy,Austin,Panama,Cartí Suitupo,Grover Pass,812,1953-10-15,654186618
+1165,Ruth,Russell,Philippines,Tiwi,Florence Street,4,1972-04-03,456917738
+1166,Richard,Perez,Russia,Presnenskiy,Leroy Alley,825,1932-10-19,325837951
+1167,Kathleen,Cunningham,Portugal,Pontinha,Novick Road,5365,1985-06-21,277888626
+1168,Jennifer,Matthews,Portugal,Devesa,Elgar Pass,11770,1932-03-15,251797502
+1169,Mark,Nelson,Philippines,Cama Juan,Maple Drive,6,1968-05-05,345691159
+1170,Brenda,Johnson,Poland,Skórzec,Morningstar Court,9682,1968-08-10,187540593
+1171,Steven,Kennedy,China,Beidao,Northport Lane,77,1950-03-25,271160025
+1172,Theresa,Reid,China,Sidaohezi,Twin Pines Center,796,1953-09-23,799481572
+1173,Anthony,Sanders,United States,Salt Lake City,Boyd Park,11,1958-01-01,998971559
+1174,Raymond,Lopez,Brazil,Curitiba,Mcguire Hill,3,1946-05-12,327659724
+1175,Edward,Ryan,Thailand,Na Muen,Scoville Center,32212,1945-09-27,176466764
+1176,Norma,Bennett,China,Lutun,Waxwing Center,382,1995-12-27,246009362
+1177,Rebecca,Ross,Cuba,Niquero,Doe Crossing Terrace,31,1961-08-03,219210601
+1178,Brian,Fernandez,Norway,Arendal,Grim Junction,56,1987-10-19,875484024
+1179,Katherine,Moreno,Canada,Lumsden,Delaware Place,3,1987-06-05,653101007
+1180,Angela,Price,China,Tiegai,Talisman Plaza,8,1990-03-28,373881893
+1181,Phillip,Brooks,Argentina,Las Varas,Kenwood Way,61,1967-06-08,335005770
+1182,Jean,Rose,United States,Boise,Hanson Center,9784,1957-08-03,811126689
+1183,Andrea,Jenkins,Russia,Sobinka,Merrick Plaza,6390,1989-06-04,293453436
+1184,Alice,Flores,Czech Republic,Opatovice nad Labem,Homewood Way,877,1957-08-09,243939266
+1185,Craig,Hicks,Ethiopia,Sendafa,Valley Edge Circle,81,1952-12-23,500531391
+1186,Eugene,Perez,Nigeria,Mokwa,Kings Terrace,2416,1945-04-21,615449771
+1187,Carl,Roberts,Philippines,Jarigue,Killdeer Point,65,1977-01-13,441400032
+1188,Bruce,Wood,Cuba,Guantánamo,Ronald Regan Court,4,1935-08-28,599461054
+1189,Chris,Rivera,Indonesia,Bogorejo,Victoria Trail,84184,1979-01-15,969380922
+1190,Elizabeth,Rodriguez,Cameroon,Tonga,Fairfield Court,746,1943-04-30,225663647
+1191,Louise,Robertson,Czech Republic,Písečná,Logan Hill,8057,1990-03-09,247913933
+1192,Philip,Kelly,Mali,Yélimané,Eagle Crest Hill,141,1932-11-06,221387648
+1193,Anthony,Holmes,United States,Dallas,Harper Junction,40,1930-04-22,321224095
+1194,Juan,Hayes,Panama,Aguadulce,Upham Alley,8585,1992-10-29,382416359
+1195,Kathleen,Fernandez,South Korea,Moppo,Hovde Park,6884,1981-08-08,295967269
+1196,Lori,Dean,Cuba,Aguada de Pasajeros,Sage Trail,434,1930-02-25,540576181
+1197,Amy,Ferguson,China,Gangtun,Pepper Wood Park,9102,1971-05-31,929179483
+1198,Charles,Hunter,Indonesia,Tlogotunggal,Burning Wood Avenue,7793,1965-06-08,330828066
+1199,Wanda,Chavez,Republic of the Congo,Makoua,Swallow Road,90279,1990-03-03,945156741
+1200,Antonio,Patterson,Tanzania,Tukuyu,Grover Pass,56986,1996-07-09,495640460
+1201,Sharon,Lane,Netherlands,Katwijk,Spaight Pass,13711,1977-03-07,942805393
+1202,Robert,Sanders,France,Cahors,Westend Lane,575,1970-11-04,159800060
+1203,Mary,Peters,Malaysia,Kuala Terengganu,Hansons Junction,4,1961-07-29,106210730
+1204,Roger,Thompson,Malaysia,Seremban,Fordem Circle,04,1983-07-22,953853090
+1205,Eric,Cook,Russia,Yantal’,Lakewood Alley,8,1970-07-29,119887702
+1206,Anna,West,Brazil,Nortelândia,Sommers Parkway,3,1974-12-25,512882045
+1207,Bruce,Mccoy,Myanmar,Loikaw,Nelson Road,1567,1971-05-03,811958251
+1208,Ashley,Young,Norway,Oslo,Elmside Hill,0225,1950-12-12,302924100
+1209,Martha,Evans,Serbia,Jagodina,Oriole Avenue,7,1953-10-09,204662788
+1210,Juan,Freeman,Mongolia,Bayshint,Monica Way,16111,1960-08-26,862080514
+1211,Christopher,Duncan,Portugal,Figueiró dos Vinhos,Sloan Street,94,1958-05-18,118029453
+1212,Arthur,Cunningham,Indonesia,Jantake,Anthes Hill,505,1958-04-27,384197145
+1213,Joe,Williamson,Colombia,Remolino,Aberg Road,9,1936-08-07,914560555
+1214,Howard,Cunningham,Indonesia,Jampang Tengah,Vahlen Court,09,1941-02-17,347003930
+1215,Susan,Stephens,France,Boé,Oneill Place,172,1965-06-21,439792448
+1216,Anne,Reyes,France,Vienne,Thackeray Crossing,6129,1981-05-13,442226522
+1217,Jimmy,Mills,China,Zhendong,Rowland Point,37,1960-11-13,427533894
+1218,Carol,Lee,Indonesia,Sugihan,Ohio Way,32103,1977-12-16,516929508
+1219,Justin,Murphy,Philippines,Talisayan,Holmberg Parkway,9,1945-05-18,735720818
+1220,Julia,Gonzales,China,Hualingang,Loeprich Pass,492,1942-08-20,389069030
+1221,Tina,Anderson,Venezuela,Papelón,Bartelt Crossing,4,1932-01-20,328056833
+1222,Alan,Reyes,Portugal,Casal do Conde,Kenwood Place,1417,1969-11-03,656490625
+1223,Gloria,Meyer,Nigeria,Lau,Evergreen Road,23,1963-11-25,125733887
+1224,Matthew,Carroll,Czech Republic,Čejkovice,Dexter Trail,6276,1994-10-16,394889119
+1225,Jean,Woods,Philippines,Igcocolo,Eastlawn Crossing,00,1945-02-14,784715802
+1226,Raymond,Morales,Ukraine,Kuteynykove,Old Gate Pass,0,1949-11-22,597193784
+1227,Billy,Garza,China,Dalongtan,Westridge Place,63474,1990-02-07,160567972
+1228,Alice,Palmer,Mexico,Vicente Guerrero,Truax Way,4,1943-02-26,667188137
+1229,Arthur,Torres,Argentina,Santa Lucía,Warner Hill,51,1968-05-05,394273048
+1230,Janice,Black,China,Wulijie,Boyd Terrace,06,1972-03-14,349724037
+1231,Jason,Ward,China,Sanxing,Haas Road,89,1986-01-03,303880097
+1232,Patricia,Duncan,Cameroon,Kumbo,Erie Avenue,58,1956-03-06,232085829
+1233,Donna,Perkins,United States,Fullerton,Mallard Plaza,179,1981-12-15,117201377
+1234,Lillian,Allen,Egypt,Idkū,Beilfuss Terrace,19,1997-12-10,306337116
+1235,Judith,Mcdonald,China,Yangdu,Blaine Street,037,1959-11-14,719042457
+1236,Lois,Ruiz,Brazil,Votuporanga,Blackbird Lane,51,1936-10-11,288476401
+1237,Shirley,Simmons,Cape Verde,Tarrafal de São Nicolau,Mayfield Pass,10,1987-06-13,184701793
+1238,Ralph,Hamilton,Indonesia,Sadabumi,Village Green Plaza,07,1944-11-14,423283359
+1239,Rachel,Barnes,Ireland,Ashford,Stuart Junction,93590,1996-02-24,989068775
+1240,Shawn,Wells,Brazil,Itapecerica da Serra,Riverside Avenue,8,1930-11-05,260108412
+1241,Jesse,Scott,China,Huilong,Ridgeway Crossing,8,1959-06-08,613668956
+1242,Matthew,Hart,China,Yangjiao,Florence Street,52,1967-07-16,544065033
+1243,Wanda,Wright,Russia,Kangalassy,Raven Alley,991,1991-06-02,947705897
+1244,Thomas,Marshall,Brazil,Arroio do Meio,Dayton Hill,3420,1967-01-30,302759962
+1245,Arthur,Stewart,Philippines,Laguilayan,Continental Court,3151,1988-06-19,537009307
+1246,Heather,Hawkins,China,Shaxi,Forest Junction,4,1942-02-01,464806572
+1247,Amy,Weaver,France,Cergy-Pontoise,Calypso Avenue,16943,1994-12-02,927648836
+1248,Juan,Hughes,Vietnam,Hội An,Russell Junction,45,1953-09-01,587326394
+1249,Jason,Foster,Colombia,Ramiriquí,Meadow Vale Way,26766,1965-03-11,252700996
+1250,Clarence,Ryan,Sweden,Solna,American Plaza,319,1975-04-06,632056934
+1251,Louise,Gray,France,Troyes,Lotheville Plaza,7,1994-11-16,401523682
+1252,Denise,Bowman,China,Donghai,Moland Center,25478,1976-11-12,418441342
+1253,Marilyn,Graham,Afghanistan,Kai,Thackeray Road,1604,1988-06-26,150173362
+1254,Ralph,Cooper,Central African Republic,Berbérati,Northfield Street,9,1941-04-12,838995488
+1255,Katherine,Kennedy,Brazil,Santa Quitéria,Springs Road,10129,1956-10-25,569322278
+1256,Jessica,Ruiz,Indonesia,Banjar Tegal Belodan,Goodland Center,15,1939-10-17,545246871
+1257,Ryan,Tucker,Ukraine,Chutove,Summit Junction,8,1954-03-13,583288978
+1258,Eugene,Stanley,Indonesia,Palalang,Meadow Valley Plaza,04,1977-09-12,586303141
+1259,Kathleen,Brown,China,Fengxi,Granby Pass,08820,1934-12-30,473602701
+1260,Walter,Coleman,Russia,Izobil’nyy,Reindahl Court,92,1987-10-31,982445033
+1261,Mary,Peterson,Chile,San Carlos,Buhler Plaza,954,1956-11-22,129513923
+1262,Sharon,Thompson,China,Yangshuo,Westport Street,29972,1960-05-16,419243377
+1263,Katherine,Morrison,Philippines,Hinlayagan Ilaud,Butterfield Junction,102,1971-09-04,825079466
+1264,David,Morales,Philippines,Sinacaban,Butterfield Way,124,1954-01-18,825411734
+1265,Amy,Powell,Philippines,Balibago,Claremont Lane,22,1976-04-02,351552669
+1266,Arthur,Tucker,Argentina,Aranguren,Merrick Lane,0,1988-05-16,379656622
+1267,Earl,Thompson,Indonesia,Taraan,Browning Way,89312,1965-03-14,451038981
+1268,Nicholas,Daniels,Russia,Sergach,Southridge Park,0,1995-03-28,739047592
+1269,Deborah,Parker,Sweden,Hovås,Duke Plaza,9239,1977-08-28,384840648
+1270,Gloria,Roberts,China,Baicheng,Bluejay Park,6,1957-07-29,752813383
+1271,Mildred,Duncan,France,Melun,Waubesa Pass,82,1945-02-09,786308857
+1272,David,Lee,Canada,Pickering,Scofield Way,1,1980-09-24,167227233
+1273,Kenneth,Romero,North Korea,Kilju,Northridge Plaza,5,1989-03-13,325168191
+1274,Harold,Sanders,Brazil,Barra do Corda,Hintze Center,671,1975-12-03,594707581
+1275,Rose,Wells,China,Xichehe,Stephen Hill,52,1939-09-28,357378557
+1276,Clarence,Hill,China,Jinchuan,Gerald Place,3501,1980-04-25,124054412
+1277,Ruth,Phillips,New Caledonia,Bourail,Arrowood Street,74,1944-07-13,929891129
+1278,Martin,Fuller,China,Lengkeng,Hanover Terrace,89108,1950-03-31,646071481
+1279,Nicholas,Smith,Angola,Luau,Reindahl Alley,1,1969-07-19,472879767
+1280,Deborah,Mills,Pakistan,Bahāwalnagar,Crest Line Park,53,1965-08-17,409314133
+1281,Helen,Morgan,Yemen,Maswarah,Reinke Point,546,1960-10-11,573856659
+1282,Helen,Spencer,Cambodia,Tbêng Méanchey,Commercial Point,43,1945-11-13,453319662
+1283,Michael,Olson,Peru,Cahuacho,Kedzie Hill,7,1933-12-06,123758561
+1284,Donna,Alexander,Brazil,Viradouro,Northridge Center,92428,1996-08-24,399390991
+1285,Julie,Jordan,Belarus,Lahishyn,Toban Drive,4,1988-11-10,544875505
+1286,Gary,Medina,China,Shouxihu,Toban Pass,48,1953-12-27,851921069
+1287,Mildred,Alexander,China,Yanglin,Clove Avenue,2,1954-01-17,233981846
+1288,Martha,Nelson,Peru,Chalaco,Cody Hill,84858,1979-01-26,893123740
+1289,Louise,Ramos,South Korea,Songhae,Rutledge Road,65406,1966-08-19,828470372
+1290,Shirley,Hicks,China,Reshui,Swallow Way,22409,1960-05-11,290827331
+1291,Diana,Nelson,Russia,Vnukovo,Garrison Court,29797,1932-05-19,724701002
+1292,Arthur,Ross,Thailand,Watthana Nakhon,Magdeline Point,8,1937-11-21,756700928
+1293,Bobby,Howell,Argentina,Cutral-Có,4th Center,4,1945-08-09,354104485
+1294,Marie,Fisher,Indonesia,Telangi Satu,Fulton Alley,1211,1979-09-16,482917495
+1295,Gregory,Peterson,Bahamas,Spanish Wells,Mockingbird Street,4,1971-08-21,863432567
+1296,Jane,Franklin,Nigeria,Mekkaw,Daystar Terrace,1,1982-06-27,387996106
+1297,Anne,Robinson,Madagascar,Ambovombe,Pond Terrace,2,1931-12-21,763254542
+1298,Kathryn,Shaw,Philippines,Koronadal,Crowley Parkway,07029,1936-06-07,236364814
+1299,Earl,Hughes,Serbia,Ruma,Pearson Pass,727,1993-04-30,840917237
+1300,Helen,Thomas,Afghanistan,Ḩājī Khēl,Loeprich Drive,79,1986-12-05,286455723
+1301,Carl,Wheeler,United Kingdom,London,Namekagon Place,844,1969-09-22,156188124
+1302,Brandon,Howard,China,Youdunjie,Farragut Parkway,164,1989-11-27,556123391
+1303,Douglas,Evans,Canada,Espanola,Mallory Court,72805,1954-11-17,793309025
+1304,Judy,Jacobs,Guatemala,Esquipulas Palo Gordo,Maple Center,51,1983-11-17,457940442
+1305,Johnny,Richardson,United States,Oklahoma City,Monterey Alley,58,1931-08-06,240286358
+1306,Matthew,Snyder,China,Zhongwei,Declaration Park,2802,1950-07-14,726525123
+1307,Emily,Carter,France,Besançon,Mifflin Park,0,1980-04-08,395576521
+1308,Amy,Young,China,Dongfeng,Pepper Wood Drive,43,1934-12-22,937250857
+1309,Charles,Arnold,Pakistan,Quetta,West Street,0338,1940-12-19,289169486
+1310,Martha,Ross,North Korea,Kilju,Bayside Junction,75,1997-06-25,361601815
+1311,Margaret,Knight,China,Tanbu,Prairie Rose Trail,9204,1990-09-04,953714443
+1312,Stephen,Miller,Philippines,Balungao,Ronald Regan Way,99887,1942-06-21,341592744
+1313,Sarah,Wagner,Indonesia,Manggissari,Commercial Avenue,94625,1959-05-21,736137061
+1314,Tammy,Cox,Croatia,Mačkovec,Vernon Street,288,1931-01-08,503499983
+1315,Patricia,Ray,Czech Republic,Bavorov,Dwight Place,7,1940-11-16,326479554
+1316,Matthew,Henderson,Russia,Krasnodar,Granby Point,50978,1964-09-11,546543381
+1317,Emily,Hall,Indonesia,Cibiru,Lakeland Circle,6,1957-02-07,291615152
+1318,Jacqueline,Snyder,Iran,Ahar,3rd Street,6,1938-07-31,812210448
+1319,Michael,Cox,Indonesia,Tapakrejo,Bluestem Parkway,38146,1991-10-03,669091038
+1320,Thomas,Stone,Poland,Pruchnik,North Court,22,1994-04-02,628875795
+1321,Walter,Bowman,Philippines,Bitin,Mosinee Avenue,967,1953-02-01,630804928
+1322,Roger,Reid,Greece,Aryiropoúlion,Welch Drive,9,1973-12-29,283829651
+1323,Julie,Sanchez,Finland,Masku,Almo Place,16,1970-03-18,240072386
+1324,Ruth,Jackson,Portugal,Cardal,Nelson Trail,6,1950-02-20,296312027
+1325,Kathryn,Lewis,Nigeria,Gandi,Northridge Point,5,1989-11-09,885270829
+1326,Timothy,Cox,Yemen,Al Qanāwiş,Mifflin Pass,737,1977-03-28,384295100
+1327,Carolyn,Ryan,Poland,Błaszki,Glacier Hill Trail,42,1932-06-20,205376427
+1328,Evelyn,Banks,Botswana,Kanye,Algoma Pass,2851,1953-06-08,662840150
+1329,Aaron,Meyer,Philippines,San Isidro,Russell Junction,39,1938-11-18,332496712
+1330,Kenneth,Little,Indonesia,Wilanagara,Golden Leaf Plaza,26,1954-08-07,406300740
+1331,Wayne,Rodriguez,Peru,Aco,Golden Leaf Terrace,3,1935-02-12,427732389
+1332,Joshua,Williams,China,Dongting,Memorial Avenue,727,1996-06-08,954436234
+1333,Nancy,Frazier,Canada,Aldergrove,Declaration Plaza,390,1994-12-04,933104652
+1334,Linda,Rivera,Eritrea,Barentu,Superior Junction,736,1951-05-25,663495594
+1335,Angela,Boyd,Madagascar,Sambava,Hallows Alley,669,1957-04-26,526104757
+1336,Louise,Mills,Angola,Longonjo,Shoshone Avenue,41,1976-12-21,276091820
+1337,Douglas,Peterson,Sierra Leone,Binkolo,7th Parkway,60525,1964-11-18,215408543
+1338,Adam,Elliott,Indonesia,Cilangkap,Butternut Junction,28,1964-12-19,854896514
+1339,Matthew,Thomas,Canada,Fredericton,West Lane,2298,1973-11-06,156085017
+1340,Raymond,Jones,China,Huangshi,Sullivan Park,93,1939-01-14,833841063
+1341,Aaron,Gibson,Portugal,Malpique,4th Circle,690,1979-09-05,736250062
+1342,Carolyn,Richardson,China,Baoshan,South Way,2,1983-07-28,482776666
+1343,Rose,Stevens,Uganda,Kagadi,Shoshone Junction,935,1961-03-01,663863962
+1344,Tina,Chapman,Thailand,Ta Phraya,Stuart Center,14405,1941-11-22,479296501
+1345,Gregory,Brown,Japan,Kagoshima-shi,Northwestern Trail,30885,1954-08-04,568834159
+1346,Larry,Lawrence,Indonesia,Haruman,Maryland Pass,3,1933-04-12,238973497
+1347,Judy,Spencer,China,Tangnanzhen,Montana Drive,66279,1937-07-19,354401417
+1348,Randy,Warren,Russia,Sovetskoye,North Road,1905,1965-05-08,751942477
+1349,Lawrence,Welch,Indonesia,Babakansalam,Bluestem Court,58,1945-09-04,959838558
+1350,Lawrence,Mccoy,China,Lidian,Golf View Hill,7320,1995-03-13,304974631
+1351,Donald,Andrews,Paraguay,Caacupé,Sherman Plaza,10975,1980-07-04,292378342
+1352,Nancy,Bailey,Russia,Verkhniye Kigi,Sullivan Plaza,530,1961-10-21,786790257
+1353,Brandon,Wagner,Pakistan,Dhanot,Farwell Junction,0273,1939-05-01,463254930
+1354,David,Ross,United States,Houston,Portage Park,413,1937-08-28,747107916
+1355,Gregory,Wells,China,Huangjingba,Rigney Junction,9,1954-04-10,970320814
+1356,Antonio,Lawson,Russia,Shuvakish,Stoughton Terrace,0038,1967-04-28,432387331
+1357,Debra,Knight,Greece,Smínthi,Grover Street,03,1989-09-26,145089519
+1358,Jeffrey,Holmes,Ivory Coast,Duekoué,Division Place,4177,1942-12-03,321150429
+1359,Fred,Nguyen,China,Huanglong,Mallard Road,337,1967-03-08,782464700
+1360,Kenneth,Wright,Malta,Kerċem,Meadow Ridge Circle,0,1997-01-06,818969187
+1361,Julia,West,Indonesia,Sarirejo Satu,Dunning Center,83,1991-07-14,788740410
+1362,Sean,Jackson,Philippines,Mahaplag,Carpenter Lane,78812,1938-10-03,188601377
+1363,Julie,Fisher,Brazil,Humaitá,Old Gate Road,184,1982-01-14,182426711
+1364,Aaron,Grant,China,Baiquan,Anzinger Trail,7,1959-03-09,772647902
+1365,Diane,Grant,Japan,Shimada,Del Mar Crossing,6791,1961-03-24,336154129
+1366,Peter,Garza,Pakistan,Ladhewāla Warāich,Northfield Avenue,96290,1981-11-13,827119332
+1367,Ruth,Crawford,Brazil,Elias Fausto,Haas Parkway,012,1963-03-02,874469650
+1368,Jerry,Harper,Indonesia,Dangbigih,Darwin Park,4751,1958-08-29,700647892
+1369,Thomas,Burns,Thailand,Ban Selaphum,Farragut Lane,00634,1974-11-09,540293182
+1370,Gerald,Ray,Brazil,João Alfredo,Kennedy Drive,69783,1955-06-13,860688487
+1371,Robert,Elliott,Brazil,Sacramento,Village Green Hill,722,1934-01-17,343550540
+1372,Jimmy,Lopez,Cameroon,Douala,Del Sol Junction,3115,1985-11-26,305112776
+1373,Antonio,Adams,Indonesia,Ciawi,Sundown Avenue,7912,1955-04-03,481071434
+1374,Jack,Garrett,Kenya,Wajir,Independence Hill,015,1967-07-06,625818718
+1375,Michael,Baker,Indonesia,Kaliuda,Londonderry Parkway,2724,1953-12-19,677520971
+1376,George,Mason,Brazil,Nova Prata,Canary Place,55,1953-10-15,169999470
+1377,Louise,Turner,Philippines,Buang,Scofield Hill,41,1963-12-25,132984201
+1378,Emily,Hamilton,Vietnam,Dầu Tiếng,Nobel Way,90,1956-08-29,791240529
+1379,Jack,Hughes,Iran,Nahāvand,Blaine Place,2,1934-04-02,467373279
+1380,Jason,Butler,Angola,Caála,Drewry Point,1,1952-04-03,581897783
+1381,Shirley,Robinson,Philippines,Puerto Galera,Roth Junction,5062,1938-10-03,842632838
+1382,Paul,Johnson,Thailand,Tha Ruea,Barby Street,65,1940-12-09,307614379
+1383,Craig,Jones,United States,Tampa,Cherokee Pass,2537,1992-05-16,649732461
+1384,Willie,Bailey,Russia,Krasnyy Gulyay,Barnett Crossing,543,1974-10-02,187444511
+1385,Michelle,Carpenter,Indonesia,Tlogowetan,Elmside Lane,5,1952-01-01,559271026
+1386,Sandra,Jones,Canada,Anmore,Arapahoe Lane,9,1969-10-16,508685196
+1387,Lois,Carr,Sweden,Linköping,Melby Way,123,1984-11-18,141703146
+1388,Sandra,Brooks,Brazil,Lajedo,Summer Ridge Place,7504,1997-03-06,212865125
+1389,Rachel,Price,Poland,Bolszewo,Rusk Park,6,1974-08-16,461497980
+1390,George,Wood,Myanmar,Mandalay,Melody Terrace,7577,1959-10-19,318928603
+1391,Wanda,Cruz,Portugal,Souto da Casa,Harbort Drive,5769,1948-09-15,826995939
+1392,Mildred,Gonzales,China,Xiaohekou,Golf Course Pass,37782,1971-07-05,539811826
+1393,Phillip,Wheeler,Indonesia,Kepel,Mallory Street,2,1985-11-06,944237124
+1394,Ashley,Harris,Indonesia,Nangabulik,Tony Place,49495,1974-11-29,812421746
+1395,Evelyn,Armstrong,Uzbekistan,Yangirabot,Rowland Hill,10335,1981-04-01,143099048
+1396,Terry,Long,Mongolia,Höviyn Am,Porter Place,8,1958-08-13,900692865
+1397,Norma,Fox,Serbia,Rača,Nova Point,88,1988-02-01,832386613
+1398,Steven,Knight,Russia,Korobitsyno,Monument Terrace,9121,1935-12-17,996162732
+1399,Evelyn,James,Brazil,Barreirinhas,Cordelia Center,62,1980-07-12,566769192
+1400,Joyce,Murray,Sri Lanka,Tangalla,Thompson Way,743,1940-03-23,810086220
+1401,Joe,Rose,China,Qingxi,Judy Avenue,0146,1993-12-11,608236235
+1402,Carol,White,Russia,Svetogorsk,Petterle Trail,84604,1940-03-01,519049356
+1403,David,Price,Afghanistan,Paghmān,Linden Alley,0364,1989-07-11,474300528
+1404,Michelle,Nelson,Greece,Vokhaïkó,Menomonie Center,907,1944-04-15,560409700
+1405,Lillian,Long,China,Dongkeng,High Crossing Drive,0886,1980-07-08,396689481
+1406,Ralph,Mason,Mexico,Anahuac,Bartelt Lane,00760,1944-03-05,648935173
+1407,Diana,Crawford,Indonesia,Kademangan,Steensland Junction,5,1960-12-11,293048908
+1408,Philip,Roberts,Indonesia,Lampihung,Bonner Crossing,672,1938-10-13,974313106
+1409,Margaret,Murray,Zimbabwe,Filabusi,Towne Point,52,1936-05-03,971632974
+1410,Andrea,Holmes,Colombia,Floridablanca,Logan Hill,4,1947-04-18,393090834
+1411,Alice,Wagner,Latvia,Līvāni,Porter Center,64,1988-04-02,326295789
+1412,Mark,Stone,Afghanistan,Dū Qal‘ah,Southridge Pass,6,1951-01-12,375467865
+1413,Charles,Hawkins,China,Chahannao,Springview Trail,8,1967-09-05,931523753
+1414,Stephen,Knight,China,Jingu,Bashford Center,84962,1933-11-04,183132203
+1415,David,Reynolds,Indonesia,Kadubamban,Westend Place,85,1985-10-17,503630380
+1416,Henry,Rose,China,Dadamtu,Mariners Cove Parkway,99523,1991-05-04,722356114
+1417,Doris,Fuller,China,Bandong,Schiller Center,182,1983-03-05,860646050
+1418,Cynthia,Flores,Vietnam,Ai Tu,Fordem Road,7143,1948-02-09,754762000
+1419,Christine,Ramirez,China,Gaoqiao,Northwestern Center,06,1984-05-19,458789506
+1420,Marilyn,Hunter,Azerbaijan,Vurğun,Calypso Crossing,06,1935-08-06,331837668
+1421,Joyce,Jordan,Brazil,Itororó,Main Crossing,4313,1947-12-25,755985742
+1422,Michael,Jones,Zambia,Nakonde,Anzinger Crossing,99185,1941-09-19,568045163
+1423,Diane,Brooks,Ukraine,Velyka Bilozerka,Mcguire Terrace,7,1988-01-05,668640363
+1424,Sean,Stevens,Indonesia,Citampian,Macpherson Court,8519,1960-12-26,133281395
+1425,Stephen,Tucker,Indonesia,Citambal,Magdeline Terrace,9,1947-02-06,802942690
+1426,Patricia,Garza,Indonesia,Sungaipuntik,Monica Alley,6585,1962-06-04,544430443
+1427,Daniel,Lane,Jordan,Jarash,Sundown Crossing,57,1981-04-19,204539767
+1428,Helen,Ellis,Poland,Potok Złoty,Alpine Hill,95,1975-02-09,535076289
+1429,Michelle,Torres,Indonesia,Talun,Lien Lane,8774,1981-02-27,879120839
+1430,Kelly,Price,Russia,Meget,Manufacturers Circle,2549,1969-01-30,827522734
+1431,Pamela,Adams,Indonesia,Armopa,Moland Road,776,1967-10-23,484666702
+1432,Carolyn,Gray,Indonesia,Krajan Tanjungrejo,Summit Road,064,1990-08-01,207515577
+1433,Victor,Perry,Sweden,Motala,Summerview Circle,919,1947-02-06,102086177
+1434,Anna,Lynch,China,Dachang,Spaight Trail,13,1977-03-21,956630047
+1435,Joe,Graham,Albania,Grekan,Pearson Park,96186,1958-05-29,349692046
+1436,Norma,Wheeler,Indonesia,Sendung,Basil Trail,80576,1964-09-29,785047293
+1437,Kelly,Stevens,Russia,Semënovskoye,Melby Plaza,50622,1946-01-26,463849152
+1438,Samuel,Rogers,China,Baiyin,Harper Hill,8250,1964-02-29,545945694
+1439,Lillian,Perkins,Israel,Ramat HaSharon,Bluestem Avenue,311,1996-08-07,624316600
+1440,Timothy,Banks,Poland,Wolbrom,Marcy Pass,0740,1978-07-19,216800279
+1441,David,Murphy,Sri Lanka,Kadugannawa,Hoffman Place,36959,1938-07-12,605215145
+1442,Victor,Hill,Bangladesh,Shāhzādpur,Mosinee Avenue,3284,1935-03-04,321274496
+1443,Wayne,Wilson,Egypt,Samannūd,Blackbird Hill,399,1986-12-20,230684004
+1444,Harry,Thompson,Thailand,Bang Nam Priao,Caliangt Alley,8,1945-07-28,161831324
+1445,Peter,Thompson,Poland,Puńsk,Clarendon Road,8035,1957-03-06,132810843
+1446,Arthur,Chavez,China,Xiayang,Dixon Circle,9,1966-09-22,800455086
+1447,Paula,Little,Netherlands,Heemskerk,Calypso Way,6,1942-02-19,271674498
+1448,Tina,Ellis,China,Liutan,Golden Leaf Alley,92,1955-05-22,148618814
+1449,Marie,Little,United States,Newark,Ryan Plaza,63,1974-01-18,706986020
+1450,Douglas,Watkins,Indonesia,Triteh,Gale Street,0,1934-02-07,825116637
+1451,Gregory,Carter,Brazil,Miguelópolis,Katie Park,74500,1974-07-14,941695490
+1452,Jean,Harvey,China,Xiaochi,Killdeer Place,41,1959-01-08,845180800
+1453,Phillip,Brown,Peru,Chao,Anniversary Street,31,1978-04-12,455767356
+1454,Christina,Fowler,Argentina,Quilmes,Northport Place,8890,1967-06-19,923258925
+1455,George,Spencer,Portugal,Vale da Bajouca,Lindbergh Drive,02808,1964-02-15,157668691
+1456,Kathryn,Rice,Armenia,Hats’avan,Prairie Rose Parkway,181,1994-07-16,625478995
+1457,Maria,Medina,Greece,Ampelákia,Del Mar Court,7264,1955-12-25,232056391
+1458,David,Baker,China,Huangjin,Village Avenue,5,1938-09-17,603109718
+1459,Jeremy,Cruz,Indonesia,Bajo,Portage Crossing,81,1937-12-22,300898594
+1460,Linda,Hicks,Philippines,Motrico,Acker Trail,2,1994-06-25,252096857
+1461,Jesse,Washington,Comoros,Hoani,Nevada Road,05581,1984-05-25,399125010
+1462,Victor,Young,Russia,Troitsk,Westerfield Crossing,599,1953-02-14,380620317
+1463,Gerald,Ruiz,Brazil,Maragogipe,Sloan Trail,2899,1979-09-02,529346210
+1464,Clarence,Ward,Ukraine,Staryy Merchyk,Meadow Ridge Avenue,52,1941-10-12,932237620
+1465,Theresa,Carr,Australia,Hobart,Schlimgen Hill,139,1976-02-08,668522440
+1466,Nancy,Ray,Ireland,Killorglin,Moose Hill,3,1987-05-19,714117841
+1467,William,Hernandez,Gabon,Mbigou,Lillian Street,7,1943-01-20,694429574
+1468,Christopher,Cooper,Peru,Ocoruro,Sheridan Road,80267,1969-11-15,632784115
+1469,Heather,Patterson,China,Renliu,Haas Plaza,46132,1940-11-04,551572405
+1470,Catherine,Ramos,Sweden,Trelleborg,Eastwood Parkway,9877,1959-12-07,436389599
+1471,Gregory,Woods,Ukraine,Tsarychanka,Oak Valley Place,620,1963-11-19,460158096
+1472,Philip,Bennett,Macedonia,Makedonski Brod,Dottie Center,4,1969-11-05,930919575
+1473,Juan,Gonzales,Ecuador,Guayaquil,Meadow Valley Plaza,56,1982-10-12,831180133
+1474,Heather,Gomez,Japan,Niitsu-honchō,Fairfield Lane,498,1979-12-18,958708126
+1475,Virginia,Cole,Cuba,Camajuaní,Jenifer Crossing,505,1936-09-17,287351840
+1476,Albert,Johnston,Venezuela,Las Mercedes,Redwing Center,94,1986-09-15,772986699
+1477,Kenneth,Ward,Russia,Opechenskiy Posad,Erie Parkway,9053,1957-03-21,225181428
+1478,Cheryl,Hayes,Albania,Shënmëri,Burrows Terrace,6,1993-02-06,193812366
+1479,Barbara,Henderson,Malaysia,Johor Bahru,Birchwood Circle,870,1965-02-08,744063124
+1480,Jessica,Henderson,Indonesia,Sakerta Timur,Cody Junction,97683,1963-01-24,422657091
+1481,Steve,West,Poland,Rudna,John Wall Circle,62394,1976-04-27,646972874
+1482,Thomas,Hunt,Mali,Diré,Johnson Terrace,32,1959-01-14,223078372
+1483,Phillip,Morrison,Czech Republic,Chabařovice,Erie Hill,81,1943-06-06,317234964
+1484,Johnny,Richardson,South Korea,Yeosu,Thackeray Park,954,1991-12-14,441706048
+1485,Jane,Peters,Portugal,Praia da Vagueira,Dayton Hill,851,1954-02-28,611445353
+1486,Jonathan,Stevens,Guatemala,San Rafael Petzal,Kipling Drive,8122,1968-02-20,861696310
+1487,Jane,Carroll,Greece,Marína,Buhler Lane,658,1945-01-15,294812197
+1488,Betty,Mason,Mauritius,Grand Sable,Meadow Valley Avenue,5,1969-04-24,289778276
+1489,Jennifer,Henderson,Burundi,Cankuzo,Huxley Circle,171,1980-01-04,900046043
+1490,Anna,Green,Philippines,Cadagmayan Norte,Oak Point,82,1933-11-06,775275677
+1491,Shirley,Ellis,France,La Chapelle-sur-Erdre,Bartillon Way,156,1945-12-03,900538312
+1492,Henry,Freeman,Colombia,Espinal,Florence Park,74149,1987-11-22,261892790
+1493,Richard,Nguyen,United States,Detroit,Swallow Drive,89795,1990-06-22,245250732
+1494,Gary,Wagner,China,Henggang,Cherokee Street,3,1948-03-05,406490794
+1495,Rebecca,Morrison,Russia,Polunochnoye,Lighthouse Bay Parkway,98,1971-09-13,111429461
+1496,Denise,Berry,China,Hengfeng,Hudson Road,8937,1957-02-08,406321007
+1497,John,Henry,Sweden,Järfälla,Spenser Junction,4241,1934-03-29,240969912
+1498,Stephen,Hunter,China,Dadamtu,Coolidge Plaza,6290,1987-07-19,226807963
+1499,Pamela,Carr,Indonesia,Ngembel,School Pass,54728,1932-05-18,315162736
+1500,Maria,Mccoy,Czech Republic,Záhorovice,Westport Park,7695,1997-05-18,328018696
+1501,William,Mason,Malaysia,Kuala Lumpur,Bayside Court,17,1963-12-04,548642698
+1502,Steve,Long,Iran,Qohord-e Bālā,Clarendon Trail,3251,1961-02-26,777786738
+1503,Amy,Robertson,Russia,Kovdor,Manufacturers Alley,5,1977-12-15,756475711
+1504,Gary,Edwards,Indonesia,Cukanguncal,Graceland Center,6,1978-07-27,181795550
+1505,Harry,Thomas,Chile,Nueva Imperial,Rigney Point,279,1940-05-08,116851896
+1506,Todd,Bennett,Mali,Kokofata,Welch Circle,0,1945-10-13,947019160
+1507,Martin,Wright,Philippines,Biasong,Vermont Circle,05,1939-03-21,505058321
+1508,Anthony,Jones,Tanzania,Kibondo,Banding Avenue,8,1935-10-19,938868063
+1509,Doris,Morrison,Mexico,Fovissste,Charing Cross Plaza,47,1987-10-07,775387473
+1510,Rachel,Edwards,Syria,Mazra‘at Bayt Jinn,Riverside Road,89,1937-03-03,257939723
+1511,Frances,Simpson,Czech Republic,Bechlín,Spaight Court,6,1969-10-07,913571356
+1512,Laura,Johnston,Indonesia,Gunungangka,Butternut Avenue,02,1948-06-26,310029394
+1513,Margaret,Morrison,China,Chongwen,Bunting Park,42661,1945-09-17,617964291
+1514,Paula,Brown,France,Paris 08,Lukken Way,3,1975-03-19,786588403
+1515,Carl,West,China,Nanbin,Canary Road,55,1989-11-23,360182611
+1516,Rebecca,Hill,China,Fu’an,Manley Road,88,1987-06-18,854368885
+1517,Mary,Lee,China,Xintang,Merrick Circle,10,1960-08-29,679072156
+1518,Aaron,Andrews,Russia,Svetlograd,Victoria Alley,5,1962-06-24,168368815
+1519,Amy,Wheeler,China,Lantian,Oak Circle,8217,1935-01-14,399469703
+1520,Michelle,Daniels,Lithuania,Kybartai,Scofield Lane,8,1986-05-22,535723872
+1521,Irene,Ellis,China,Laidian,Onsgard Pass,59,1930-02-12,505498211
+1522,Stephen,Payne,Philippines,Calibutbut,Dexter Place,3,1995-07-20,251028979
+1523,Paula,Cooper,Brazil,Limoeiro,Linden Terrace,0896,1938-04-12,832432437
+1524,Annie,Sanders,Egypt,Hurghada,Green Ridge Way,70584,1957-09-02,170043777
+1525,Diana,Freeman,Nigeria,Abakaliki,Mallard Drive,12,1989-02-24,781033531
+1526,Willie,Allen,Albania,Kushovë,Mosinee Place,98,1992-04-23,535601977
+1527,Jean,Elliott,Moldova,Nisporeni,Veith Junction,25344,1953-11-16,902898654
+1528,Patrick,Ferguson,Indonesia,Martapura,Schlimgen Circle,5,1991-06-11,603308812
+1529,Beverly,Peterson,Poland,Rybie,Forster Point,1,1954-01-19,934376043
+1530,Evelyn,Long,Indonesia,Awilega,Birchwood Trail,1108,1994-11-10,110745128
+1531,Nicole,Owens,China,Xinzheng,Eagle Crest Trail,085,1952-11-08,149686514
+1532,Brandon,Williams,Philippines,Gandara,Mifflin Parkway,52539,1946-01-16,566468933
+1533,Tammy,Thompson,Indonesia,Sere,Helena Road,79,1930-02-10,644351538
+1534,Anna,Gutierrez,Indonesia,Pagak,Del Sol Way,874,1988-10-16,602071424
+1535,Jeffrey,Harris,China,Dongsheng,Fulton Park,85434,1974-07-21,190220189
+1536,Matthew,Willis,France,Laxou,Towne Street,14,1974-09-06,349516992
+1537,Ann,Alexander,China,Dayou,Lotheville Avenue,78787,1942-01-04,923667786
+1538,Frank,Palmer,Mexico,San Antonio,Spohn Center,68,1956-06-12,640973674
+1539,Chris,Stanley,Indonesia,Mander,Quincy Hill,67,1971-02-15,443481153
+1540,Cynthia,West,Greece,Ambelón,Daystar Parkway,307,1985-01-20,668298916
+1541,Teresa,Perkins,Benin,Dassa-Zoumé,Corry Parkway,40,1945-11-30,161846977
+1542,Terry,Tucker,Kosovo,Kačanik,Nelson Parkway,64576,1984-01-26,682615149
+1543,Joyce,Wallace,Philippines,Cervantes,Fairview Park,3,1981-09-01,908685556
+1544,Julia,Fowler,Iran,Sepīdān,Towne Hill,06854,1988-04-08,975791247
+1545,Joseph,Lane,China,Kangxung,Lindbergh Center,844,1959-11-19,352291200
+1546,Carlos,Green,Brazil,Caculé,Loftsgordon Circle,8,1932-04-17,127998310
+1547,Ralph,Harris,Indonesia,Kanada,Arizona Court,73345,1974-08-24,935812421
+1548,Teresa,West,Tunisia,Tozeur,Onsgard Park,1,1955-02-08,334483772
+1549,Tammy,Perry,France,Cestas,Derek Center,93,1987-07-09,136508365
+1550,Amy,Ellis,Palestinian Territory,Yuta,Dakota Terrace,398,1952-07-30,102484320
+1551,Johnny,Patterson,South Korea,Kyosai,Brown Place,20,1975-10-09,215979226
+1552,Wayne,Ryan,China,Langjun,Sherman Plaza,04288,1933-11-26,432183596
+1553,Laura,Williams,Indonesia,Oemanu,Dunning Crossing,1,1980-12-26,994895276
+1554,Carl,Reid,Russia,Klyuchi,Paget Plaza,7,1997-06-18,957554793
+1555,William,Lawson,China,Wangzuizi,2nd Park,276,1938-03-04,101344399
+1556,Cheryl,Jenkins,Philippines,Beddeng,Roxbury Point,6941,1967-09-21,845031343
+1557,Maria,Long,Philippines,Domalanoan,5th Plaza,23705,1991-06-11,755052927
+1558,Eugene,Hunter,China,Wanli,Dottie Place,90488,1935-01-26,955301848
+1559,Donna,Davis,China,Shangtian,Prentice Park,3,1941-09-04,423166202
+1560,Theresa,Hall,Sweden,Täby,Pleasure Pass,33,1976-07-12,658794838
+1561,Joseph,Garza,Philippines,Luklukan,Birchwood Trail,0514,1933-01-31,157528056
+1562,Amanda,Mccoy,China,Tianchi,Garrison Park,24,1979-06-16,346679872
+1563,Alan,Brooks,Philippines,Kotkot,Bay Junction,811,1969-12-27,296114604
+1564,Marie,Parker,Indonesia,Kalapagenep,Rowland Park,3,1971-07-17,976285842
+1565,Sharon,Elliott,Indonesia,Penitik,Johnson Circle,5,1982-11-23,663324807
+1566,George,Lee,China,Jiegan,Tennessee Crossing,97,1986-07-17,636920566
+1567,Carol,Fox,Togo,Aného,Swallow Terrace,338,1938-11-27,587423119
+1568,Todd,Wagner,Bosnia and Herzegovina,Pazarić,Warner Street,4945,1975-07-27,458099868
+1569,Ann,Holmes,Andorra,les Escaldes,Muir Pass,04696,1972-10-31,331251847
+1570,Heather,Morrison,Philippines,Hinlayagan Ilaud,Victoria Plaza,6,1967-11-24,209677027
+1571,Gary,Vasquez,Czech Republic,Zlechov,Melrose Parkway,3,1946-09-29,887881904
+1572,Steven,Larson,Argentina,Libertador General San Martín,Elmside Parkway,9699,1987-08-31,259958524
+1573,Adam,Watkins,Czech Republic,Lázně Kynžvart,Cottonwood Parkway,75,1976-01-02,815074976
+1574,Julie,Campbell,Indonesia,Sumberrojokrajan,Union Street,75106,1969-12-31,240765103
+1575,Heather,Reed,Brazil,Itororó,Aberg Pass,023,1962-09-16,200677033
+1576,Gary,Coleman,Nigeria,Madara,Sycamore Court,2569,1992-04-27,447306442
+1577,Melissa,Nelson,Indonesia,Tegalrejo,Lunder Pass,236,1958-06-15,743317088
+1578,Joseph,Gardner,Thailand,Phu Kradueng,Redwing Street,81093,1931-08-23,166278016
+1579,Nicole,Graham,China,Changqi,Jackson Lane,579,1991-02-25,766692397
+1580,Aaron,Peters,Colombia,Aquitania,Morning Hill,19,1934-11-09,174018297
+1581,Kathryn,Arnold,Sierra Leone,Binkolo,Hovde Court,11,1956-07-20,900832705
+1582,Fred,Rodriguez,China,Awat,Rusk Junction,0759,1959-04-21,555000403
+1583,Sara,Cox,Portugal,Odeleite,Dapin Center,3455,1977-06-13,334229906
+1584,Gloria,Greene,Luxembourg,Clervaux,Judy Parkway,0,1983-08-27,991088690
+1585,Alice,Scott,Argentina,Santiago del Estero,Sutherland Hill,47375,1942-08-13,484673265
+1586,Ronald,Palmer,Russia,Ivanteyevka,Merchant Junction,4,1991-12-31,523949729
+1587,Randy,Fox,Czech Republic,Ledeč nad Sázavou,Kedzie Crossing,0,1967-03-21,815551534
+1588,Maria,Holmes,Czech Republic,Libice nad Cidlinou,Autumn Leaf Avenue,36866,1968-06-07,772344936
+1589,Jimmy,Moreno,China,Hejia,Summit Road,356,1969-05-27,983833196
+1590,Louise,Johnston,Indonesia,Krajan Pundungsari,Melrose Street,8,1993-11-02,921595731
+1591,Jimmy,Carpenter,Poland,Kobylanka,Gateway Place,1312,1945-03-12,126524803
+1592,Matthew,Graham,Philippines,Malhiao,Harper Park,19,1982-09-28,563301184
+1593,Douglas,Ward,Dominican Republic,Cambita Garabitos,Old Gate Alley,4831,1939-09-05,133265100
+1594,Sara,Morris,Indonesia,Gandekan,Mosinee Hill,65755,1966-12-16,130790722
+1595,Betty,Perkins,Czech Republic,Velké Bílovice,Dayton Lane,716,1955-01-02,793073536
+1596,Ashley,Ruiz,Russia,Shagonar,Kinsman Plaza,472,1952-11-21,127796902
+1597,Frank,Armstrong,Indonesia,Andongsari,Northfield Court,66,1970-01-14,372567279
+1598,Helen,Franklin,Brazil,Flores da Cunha,Morning Point,341,1949-02-21,477255934
+1599,Martha,Fox,China,Sujiatun,Little Fleur Plaza,53753,1982-06-15,673813096
+1600,Lawrence,Henry,Estonia,Räpina,Schmedeman Pass,09,1994-01-26,905697101
+1601,Benjamin,Warren,United States,Denver,Porter Street,43,1934-08-12,271045991
+1602,Ronald,Knight,Indonesia,Klole,Novick Crossing,43,1946-07-10,175525628
+1603,Dennis,Wheeler,Ukraine,Uzyn,Union Parkway,856,1956-08-08,275805345
+1604,Paul,Day,Indonesia,Kertorejo,Schlimgen Place,9801,1986-01-16,908050561
+1605,David,Reid,Indonesia,Suwaduk,Maywood Avenue,8912,1948-08-03,946077830
+1606,Tammy,Mills,China,Jiangluo,Towne Park,672,1996-10-16,719020418
+1607,Julia,Nelson,Philippines,Dadus,Cambridge Hill,5721,1976-12-28,780051868
+1608,Martha,Harper,Cameroon,Meïganga,Alpine Pass,1389,1939-08-11,905928628
+1609,Louis,Ward,Indonesia,Ciawitali,Onsgard Court,616,1975-12-08,912646566
+1610,Deborah,Freeman,United States,Spring,Clemons Court,4975,1938-11-17,633641821
+1611,Nicholas,Ferguson,Philippines,Banaba,Corscot Pass,8,1968-04-10,476141038
+1612,Debra,Austin,Mexico,Magisterial,Mccormick Street,8218,1941-09-03,652847151
+1613,Katherine,Ellis,China,Nanqiao,Towne Center,780,1953-02-22,693751463
+1614,Craig,Daniels,Peru,Calango,Utah Road,94676,1981-03-30,718631324
+1615,Rose,Castillo,Philippines,Pidigan,Basil Park,37,1940-06-02,413149725
+1616,Eugene,Andrews,France,Le Mans,Westport Junction,54,1969-04-29,290560807
+1617,Tammy,Hudson,China,Liudu,Linden Terrace,701,1937-01-20,432663506
+1618,Jessica,Richardson,Luxembourg,Tandel,Pond Pass,13,1958-08-14,852372122
+1619,Catherine,King,Poland,Grabów,Hoepker Circle,49,1964-12-21,485928050
+1620,Juan,Hawkins,Russia,Bugul’ma,Northridge Hill,81,1933-05-25,405871067
+1621,Amanda,Wood,Portugal,Bodiosa a Velha,Nelson Alley,7,1950-11-22,276259760
+1622,Terry,Duncan,Philippines,Palompon,Vidon Point,64797,1953-09-06,300147884
+1623,Kathleen,Foster,Indonesia,Sudimoro,Alpine Hill,8770,1980-07-04,293825945
+1624,Janice,Ellis,Malaysia,Kota Kinabalu,Linden Alley,203,1987-03-09,579877470
+1625,Heather,Gonzalez,Mozambique,Macia,Bluestem Alley,7175,1930-01-31,768627370
+1626,Andrea,Barnes,Russia,Furmanov,Muir Alley,03,1950-09-17,918718239
+1627,Justin,Johnston,Japan,Katsuura,Cordelia Plaza,62869,1943-03-01,491804150
+1628,Philip,Ray,Dominican Republic,Duvergé,Lyons Junction,98202,1965-03-02,818875330
+1629,John,Knight,Mexico,Benito Juarez,Emmet Street,4928,1947-04-17,393984552
+1630,Amy,Gilbert,China,Kunyang,Fuller Crossing,08,1991-12-28,281473320
+1631,Lois,Fuller,Serbia,Niš,Florence Street,7482,1967-01-15,364530035
+1632,Katherine,Fuller,Uzbekistan,Sirdaryo,Hudson Lane,740,1969-09-22,793618873
+1633,Carol,Harrison,Cameroon,Banyo,Manufacturers Trail,8,1963-01-23,420631070
+1634,Louise,Cruz,Czech Republic,Stráž nad Nisou,Clarendon Court,16,1974-02-27,863270549
+1635,Todd,Chavez,Syria,كاف الجاع,Debs Terrace,14030,1945-07-26,161648364
+1636,Steven,Morales,Thailand,Ban Chalong,Mifflin Center,853,1979-02-05,376086013
+1637,Alan,Dixon,Afghanistan,Balkh,Logan Road,30,1995-12-20,441796890
+1638,Jerry,Porter,China,Xijiang,Burrows Alley,041,1954-07-04,390990090
+1639,Teresa,Nichols,Finland,Reisjärvi,Blaine Lane,97270,1970-07-30,963112536
+1640,Ruth,Rice,Swaziland,Tshaneni,Laurel Avenue,286,1953-12-09,755983457
+1641,Samuel,Moore,Venezuela,Los Dos Caminos,Dennis Parkway,61,1938-09-23,461798279
+1642,Philip,Stephens,Norway,Molde,Ryan Avenue,2302,1941-08-20,928083108
+1643,Phyllis,Bishop,Russia,Saryg-Sep,Dixon Hill,79692,1950-07-15,576306419
+1644,Craig,Watson,Libya,Mizdah,Judy Drive,328,1942-11-26,266034058
+1645,Jonathan,Edwards,Finland,Kristinestad,Banding Alley,1,1950-06-10,950608233
+1646,Angela,Elliott,Philippines,Batasan,Mallard Avenue,07077,1979-12-21,982547771
+1647,Marie,Ray,Poland,Przesmyki,Grasskamp Center,67440,1979-07-20,597258289
+1648,Sean,Ruiz,Egypt,Al ‘Alamayn,Manley Circle,181,1986-12-07,593460319
+1649,Stephanie,Ward,Indonesia,Randu,Linden Center,3385,1995-09-15,915322271
+1650,Walter,Fox,Dominican Republic,Bella Vista,Dixon Avenue,17,1937-08-11,623015049
+1651,Pamela,Bell,China,Yandun,Sullivan Terrace,70,1989-04-15,822501651
+1652,Cynthia,Hart,Sweden,Skene,Eliot Terrace,78994,1947-05-15,356456459
+1653,Dorothy,Marshall,Libya,Sabhā,Independence Point,5263,1982-07-31,385932078
+1654,Evelyn,Wood,Brazil,Itagibá,Pearson Way,434,1949-07-23,164208181
+1655,Patrick,Watkins,France,Levallois-Perret,Claremont Place,0,1938-01-20,898407217
+1656,Terry,George,Brazil,Ipu,Macpherson Crossing,487,1994-08-29,302678455
+1657,Christopher,Morrison,Colombia,El Guamo,Hanson Terrace,856,1990-04-28,528936983
+1658,Judy,Garza,Syria,‘Ayn al ‘Arab,Derek Terrace,831,1995-06-21,774417414
+1659,Tammy,Robertson,China,Xijiadian,Ronald Regan Junction,74,1960-06-01,277845453
+1660,Jane,Nelson,Indonesia,Ciampea,Crowley Way,5639,1991-03-13,239164393
+1661,Helen,Carter,Egypt,Dikirnis,Straubel Place,6460,1997-07-28,645599455
+1662,Alan,Bowman,China,Kuishan,Pankratz Terrace,76498,1961-09-23,817914629
+1663,Robin,Bradley,Thailand,Rat Burana,Ridgeview Drive,406,1952-01-14,449002825
+1664,Marie,Montgomery,China,Qiansuo,Reindahl Trail,59,1932-11-05,108106855
+1665,Norma,Hill,Saudi Arabia,Al Jafr,Memorial Pass,32,1949-03-29,729054705
+1666,Margaret,Cole,Indonesia,Dampol,Grasskamp Park,71,1975-01-26,962332732
+1667,Harold,Mccoy,Germany,Berlin,Sheridan Road,23268,1978-12-05,899397533
+1668,Michelle,Lawson,Indonesia,Tubel,Fallview Park,1843,1975-06-08,662871395
+1669,Jean,James,Croatia,Laslovo,Hoard Crossing,91,1954-01-06,447697393
+1670,Catherine,Garcia,Tanzania,Mlalo,Jenifer Park,8096,1949-07-16,699669258
+1671,Kathy,Wagner,China,Wujiao,Chinook Hill,25,1966-07-16,856520445
+1672,Paula,Thomas,France,Guyancourt,Glacier Hill Plaza,35718,1938-09-23,735392950
+1673,Sandra,Hernandez,Indonesia,Sedati,Holy Cross Place,2,1966-01-17,475294376
+1674,Jesse,Perez,Indonesia,Cangkuang,Blackbird Hill,58020,1951-06-26,150034545
+1675,Stephen,Olson,China,Shijiang,Pine View Court,9348,1986-09-03,575882584
+1676,Fred,Carpenter,China,Woniuhe,Weeping Birch Drive,0,1952-06-13,942695054
+1677,Barbara,Oliver,China,Zhangdu,West Terrace,011,1996-06-14,978092295
+1678,Ralph,Dunn,Canada,Jasper Park Lodge,Shoshone Hill,68688,1940-04-16,726671815
+1679,Phillip,Bryant,China,Chengdong,Columbus Crossing,34238,1963-10-15,206396527
+1680,Melissa,Hudson,Sweden,Rönninge,Erie Terrace,650,1961-06-04,598036600
+1681,Brenda,Meyer,Russia,Shchëkino,Dryden Avenue,70404,1965-11-08,175151994
+1682,Tammy,Anderson,China,Yejia,Fordem Court,171,1975-03-16,919926443
+1683,Marie,Lopez,China,Zhanjiang,Blaine Court,30,1932-03-15,429626634
+1684,Teresa,Hayes,United States,Seattle,Superior Trail,1,1961-01-21,421377839
+1685,Peter,Snyder,Poland,Rogóźno,Blackbird Trail,19293,1946-10-29,438455063
+1686,Kimberly,Patterson,Indonesia,Banjar Batanpoh,North Crossing,9561,1995-04-02,673292774
+1687,Diana,Morales,Germany,Duisburg,Continental Parkway,4,1985-01-01,647254813
+1688,Laura,Hayes,Canada,Boucherville,Dryden Court,69503,1961-07-11,728909661
+1689,Paul,Oliver,Canada,Greenwood,Drewry Way,153,1985-01-10,327896953
+1690,John,Elliott,Russia,Krasnoye,Mesta Pass,41,1992-04-18,645694500
+1691,Jennifer,Young,China,Xinbao,Welch Street,3236,1958-02-26,696380351
+1692,Teresa,Chavez,Central African Republic,Rafaï,Trailsway Point,8912,1941-06-04,797062010
+1693,Carl,Hudson,Liberia,Greenville,Bashford Terrace,6,1931-06-02,281792606
+1694,Aaron,Ramos,Sweden,Järfälla,Crescent Oaks Crossing,90997,1969-12-11,269870945
+1695,Jason,Reed,Russia,Saransk,Fisk Place,630,1993-10-15,301835530
+1696,Elizabeth,Andrews,China,Fenjie,Glacier Hill Way,71061,1966-11-26,213601066
+1697,Joan,Palmer,Portugal,Jardim da Serra,Merrick Junction,7,1964-09-11,635455219
+1698,Deborah,Owens,Chile,Penco,Rowland Parkway,3,1957-02-28,519948107
+1699,Russell,Snyder,United States,Winter Haven,Loeprich Alley,02,1992-01-20,497958520
+1700,Brian,Mcdonald,Indonesia,Sopla,Charing Cross Plaza,4060,1980-02-28,562233573
+1701,Jane,Richards,Iraq,‘Aqrah,Harper Lane,399,1970-11-16,788308349
+1702,Bruce,Hayes,Honduras,Salamá,Monterey Terrace,01,1984-10-20,193473331
+1703,Katherine,Moore,Peru,Cuispes,Farmco Circle,8755,1992-12-24,959386680
+1704,Louise,Cunningham,Argentina,Concordia,Steensland Plaza,36,1973-04-17,683903981
+1705,Sandra,Jordan,China,Chaoyang,Sherman Lane,287,1967-05-01,591373995
+1706,Todd,Ferguson,Indonesia,Ganjur,Loftsgordon Trail,8,1940-01-26,508177867
+1707,Brian,Howard,China,Dianshui,Pond Plaza,01,1974-11-30,292914347
+1708,Gary,Bryant,Haiti,Ennery,Eastlawn Junction,8,1948-01-23,580766505
+1709,Louis,Myers,Indonesia,Cayur,Meadow Ridge Plaza,05187,1935-04-26,198270967
+1710,Jean,Oliver,Slovenia,Legen,Carberry Point,9301,1974-04-16,185234249
+1711,Edward,Fernandez,Peru,Pacapausa,Beilfuss Plaza,5,1965-04-17,982819981
+1712,Teresa,Shaw,Mexico,Lindavista,Haas Alley,8585,1983-03-28,213249353
+1713,Jane,Dunn,Russia,Kotlyarevskaya,Buhler Drive,0,1966-07-31,198848340
+1714,Joseph,Garrett,Kenya,Malindi,Killdeer Lane,3,1952-04-02,500270065
+1715,Virginia,Wallace,Philippines,Perrelos,Park Meadow Drive,6,1958-11-27,225381328
+1716,Beverly,Garza,Poland,Borek,Prentice Pass,32370,1945-02-12,675732414
+1717,Adam,Carter,Indonesia,Gununglarang,Pond Drive,56,1958-05-22,797565804
+1718,Michael,Medina,Israel,Safed,Artisan Way,404,1941-06-03,405029366
+1719,Andrew,Ward,Albania,Përmet,Farragut Avenue,5,1938-09-01,899958810
+1720,Christina,Berry,Russia,Radovitskiy,Reindahl Circle,33,1963-12-18,703060632
+1721,Louis,George,Poland,Bledzew,Norway Maple Crossing,2618,1975-06-19,265920051
+1722,Diana,Ruiz,Russia,Golovinskiy,Emmet Junction,0849,1958-06-18,211369021
+1723,Jimmy,Fisher,China,Huanghuai,Northland Trail,6210,1988-08-23,856352581
+1724,Jane,Reynolds,Czech Republic,Benešov nad Ploučnicí,7th Parkway,866,1979-11-25,320352435
+1725,Gregory,Burke,Ukraine,Krasnosilka,Westridge Junction,07039,1975-04-05,785608016
+1726,Larry,Gordon,Mongolia,Bayan,Briar Crest Trail,950,1934-10-14,856904247
+1727,Teresa,Russell,Mauritania,Zouérat,Browning Park,89,1992-11-29,915208477
+1728,Marilyn,Mcdonald,Indonesia,Teongtoda,Mayer Center,3,1980-01-14,650112906
+1729,Tammy,Hicks,Canada,Berthierville,Lakewood Court,3,1990-03-26,611987383
+1730,Larry,Shaw,France,Sarrebourg,Katie Place,4578,1974-12-12,612415050
+1731,Sandra,Shaw,Peru,Combapata,Scofield Alley,69392,1994-01-21,128760495
+1732,Roy,Simmons,Canada,Maple Ridge,Golf Parkway,1902,1952-11-30,854877663
+1733,Bruce,Williamson,Ukraine,Volodarka,Stuart Junction,8,1947-07-17,110624878
+1734,Norma,Jenkins,Kazakhstan,Shu,Ramsey Park,3,1940-08-25,808587811
+1735,Thomas,Price,Serbia,Ljubovija,Shoshone Court,1004,1987-03-29,226918759
+1736,Michelle,Rodriguez,Finland,Rauma,Clove Court,62,1966-06-07,449792077
+1737,Amanda,Duncan,China,Shencang,Dottie Circle,499,1988-08-14,938133974
+1738,Betty,Flores,Czech Republic,Dolní Černilov,Eggendart Plaza,77,1985-09-20,626645627
+1739,Martin,Alexander,Moldova,Ceadîr-Lunga,Bellgrove Way,5,1962-09-30,285139465
+1740,Roy,Arnold,Portugal,São Paio de Seide,John Wall Trail,745,1989-12-04,342260459
+1741,Mark,Bowman,Haiti,Gros Morne,Spohn Plaza,974,1955-10-12,315542507
+1742,Aaron,Hernandez,Brazil,Uruguaiana,Rowland Pass,72908,1945-03-30,965325816
+1743,Joan,Ramirez,Sweden,Bankeryd,Manufacturers Point,341,1975-08-17,548219115
+1744,Doris,Gomez,Philippines,Kinamayan,Lillian Point,9986,1996-10-31,735880262
+1745,Kathleen,Clark,China,Qiankeng,American Hill,8,1997-04-08,313136918
+1746,Kimberly,Lopez,Thailand,Mae Hi,Prairieview Place,79543,1974-11-20,451994950
+1747,Barbara,Howard,Spain,Castellon De La Plana/Castello De La Pla,Hooker Crossing,5699,1985-01-21,963837932
+1748,Angela,Alvarez,United States,Durham,Algoma Trail,2122,1961-12-27,339613463
+1749,Mary,Olson,Norway,Arendal,Mayer Avenue,6672,1980-09-14,949065998
+1750,Michael,Little,United States,Sacramento,Iowa Circle,19873,1933-10-10,366004816
+1751,Donald,Wright,Brazil,Paraipaba,Briar Crest Center,3,1983-10-09,390015271
+1752,Willie,Chavez,Russia,Taganskiy,Summit Road,87,1969-03-06,364945620
+1753,Gerald,Mendoza,China,Yangmingbu,Fulton Alley,8426,1935-06-20,547724512
+1754,Paula,Kelley,France,Bobigny,Chinook Center,746,1974-10-07,540195304
+1755,Janice,Armstrong,El Salvador,San Sebastián,Center Trail,9132,1962-05-15,399362325
+1756,Diana,Lynch,Mexico,Jardin,Manitowish Terrace,6016,1962-01-21,599873238
+1757,Dennis,Robinson,Indonesia,Romba,Monterey Terrace,8,1942-02-14,405758693
+1758,Billy,Lynch,China,Xunzhai,Gateway Street,609,1946-07-10,195403174
+1759,Gloria,Allen,Colombia,Pradera,Forest Run Point,95407,1938-12-04,627454070
+1760,Brandon,Foster,Canada,Grande Prairie,Morning Lane,87,1980-12-01,556633455
+1761,Earl,Cunningham,Iran,Konārak,Algoma Way,08477,1939-05-08,844696802
+1762,Juan,Gordon,Philippines,San Eduardo,Mayfield Junction,149,1988-03-07,649063256
+1763,Paula,Hawkins,Indonesia,Cikoneng,Katie Junction,89,1985-09-18,147927771
+1764,Cynthia,Richardson,China,Guanlu,Carioca Pass,88,1991-10-23,186507802
+1765,Theresa,Ward,Bolivia,Villamontes,Linden Plaza,10,1935-11-08,508390423
+1766,Betty,Adams,Philippines,San Isidro,Express Crossing,8,1954-11-30,305742804
+1767,Cynthia,Kelley,China,Gunan,Waxwing Junction,566,1985-07-05,505225900
+1768,Gary,Stanley,Indonesia,Jabranti,Sundown Plaza,5,1935-01-26,191616451
+1769,Roger,Moore,China,Yaozhou,Bobwhite Parkway,64,1950-02-06,108083871
+1770,Albert,Sanchez,Argentina,Gaimán,Blackbird Point,4,1944-05-02,342291526
+1771,Deborah,Oliver,Madagascar,Arivonimamo,Elka Park,16,1962-09-30,103256400
+1772,Bruce,Gutierrez,United States,Columbus,Grayhawk Pass,76,1944-11-15,885899594
+1773,Arthur,Dunn,Ukraine,Chervone,Lakewood Gardens Trail,89,1939-01-06,869985354
+1774,Brandon,Morris,Mexico,Cuauhtemoc,Dennis Drive,6,1975-01-20,490319175
+1775,Gregory,Porter,Brazil,Poços de Caldas,Gerald Drive,92241,1956-06-29,469587679
+1776,Justin,Hart,Honduras,San José de Río Tinto,Milwaukee Point,45719,1987-04-11,587021259
+1777,Joyce,Mcdonald,France,Nantes,Spaight Trail,1,1949-02-12,875970182
+1778,Alan,Long,Japan,Koshigaya,Lighthouse Bay Center,19239,1982-12-27,279143273
+1779,Phyllis,Foster,Thailand,Cho-airong,Lake View Circle,2,1933-05-07,902588587
+1780,Andrew,Hamilton,United States,Richmond,Norway Maple Avenue,983,1986-08-17,197017999
+1781,Sandra,Wright,China,Yonghe,Bluejay Park,3,1992-10-31,339461168
+1782,Christopher,Flores,China,Xinmin,Florence Street,1,1978-12-14,496256648
+1783,Earl,Freeman,Finland,Lammi,Nancy Road,3,1996-10-28,655266357
+1784,Philip,Porter,France,Paris La Défense,Eastwood Hill,9497,1990-01-06,989774691
+1785,Cynthia,Stephens,Russia,Komendantsky aerodrom,Lakewood Gardens Hill,0339,1978-06-27,463697357
+1786,Denise,Gilbert,Sweden,Brämhult,Sauthoff Park,00378,1953-11-11,340447513
+1787,Phyllis,Adams,Argentina,Caleufú,Bashford Center,16,1966-01-14,485891522
+1788,Robin,Rice,Russia,Ust’-Labinsk,Morning Lane,9,1958-08-28,153271318
+1789,Angela,Shaw,Denmark,København,Goodland Lane,90059,1936-03-19,969199660
+1790,Gary,Cox,China,Xinchang,Lotheville Street,223,1959-05-22,982168773
+1791,Kimberly,Smith,Uganda,Bugembe,American Junction,0723,1959-09-05,184642457
+1792,Amy,Franklin,Indonesia,Bagangan,Goodland Way,22,1988-09-07,807533898
+1793,Christine,Barnes,France,Le Mans,Burrows Parkway,32,1953-12-06,876288288
+1794,Lois,Hudson,Sierra Leone,Port Loko,Bowman Plaza,47162,1996-08-14,864236200
+1795,Christine,Alvarez,Indonesia,Pining,Cascade Crossing,2578,1953-01-12,911042963
+1796,Margaret,Lawson,Democratic Republic of the Congo,Kindu,Fuller Plaza,645,1986-08-18,855633332
+1797,Marilyn,Mcdonald,Russia,Knyaginino,Caliangt Way,38395,1979-02-25,425186009
+1798,Benjamin,Hawkins,Philippines,Sergio Osmeña Sr,Lighthouse Bay Alley,13,1966-09-19,611671579
+1799,Michelle,Payne,Nepal,Gaur,Bluestem Trail,33534,1941-02-21,833227426
+1800,Kevin,Adams,United States,Washington,Meadow Valley Way,244,1953-01-08,169416599
+1801,Ruby,Johnston,Argentina,Villa General Belgrano,Sullivan Avenue,8544,1943-01-26,255701300
+1802,Shawn,Hicks,Philippines,Tabalong,Fulton Terrace,0163,1971-05-27,744077683
+1803,Irene,Young,Poland,Pyrzyce,School Crossing,89165,1931-11-18,270012195
+1804,Virginia,Thomas,Russia,Plast,Pearson Center,6,1939-04-21,399982215
+1805,Janice,Duncan,Indonesia,Mari,Veith Hill,8,1976-01-18,977511520
+1806,Richard,Mccoy,Brazil,Brotas,Monument Parkway,2,1979-12-16,764436525
+1807,Keith,Clark,Philippines,Cayang,Bobwhite Alley,16,1938-02-14,516415666
+1808,Antonio,Hawkins,Peru,Magdalena,South Alley,873,1963-10-24,706218194
+1809,Fred,Greene,Yemen,Ḩajjah,Golden Leaf Avenue,609,1935-12-08,618308512
+1810,Fred,Reynolds,Spain,Fuenlabrada,Brickson Park Circle,69659,1939-04-04,555271801
+1811,Gregory,Cook,Colombia,Cerrito,Scott Hill,965,1966-02-08,791865929
+1812,Elizabeth,Dunn,Czech Republic,Malonty,Lindbergh Court,9,1982-03-25,680208533
+1813,Julia,Arnold,Greece,Asíni,Blackbird Alley,66618,1991-06-20,447010826
+1814,Pamela,Richards,Kiribati,Tabwakea Village,Bartillon Terrace,7,1990-04-28,134228929
+1815,Margaret,Gonzalez,China,Yanhe,Nevada Plaza,7,1991-05-22,301247578
+1816,Judith,Crawford,China,Zhaike,Union Center,4527,1975-11-30,993581664
+1817,Ann,Snyder,Indonesia,Patemon,Rieder Terrace,184,1960-11-07,665375237
+1818,Ann,Harper,Philippines,Lambayong,Spohn Parkway,38,1945-11-11,938851302
+1819,Fred,Davis,Malaysia,Kuala Lumpur,Londonderry Way,1,1963-07-03,554574438
+1820,Lori,Robinson,Sweden,Enköping,Grasskamp Center,7877,1948-08-01,939435875
+1821,Edward,Banks,Central African Republic,Bambari,Clove Crossing,57,1968-03-10,788326318
+1822,Jean,Moreno,China,Huaqiao,Homewood Pass,4,1965-02-06,794225186
+1823,Eric,Washington,China,Shuangcheng,Mcbride Circle,9108,1986-10-11,812780133
+1824,Anne,Kennedy,Portugal,Foz Sousa,Gateway Lane,9200,1951-11-13,491821659
+1825,Scott,Fernandez,Canada,Rosthern,Cambridge Drive,2,1947-05-14,320620481
+1826,Bruce,Harvey,Macedonia,Gorobinci,Fallview Trail,29134,1947-04-27,948827944
+1827,Steven,Mason,Slovenia,Ribnica na Pohorju,Southridge Center,84,1972-08-01,209947302
+1828,Louis,Stanley,Japan,Yugawara,Bartillon Plaza,3882,1944-08-09,973057389
+1829,James,Washington,Sweden,Helsingborg,Stuart Center,1561,1987-10-30,283588554
+1830,Thomas,Murphy,Indonesia,Kidangbang,Dakota Pass,290,1988-12-28,763152895
+1831,Anna,Perry,Albania,Zall-Herr,Fisk Lane,047,1970-02-06,652057120
+1832,Carlos,Simpson,France,Nîmes,Oriole Place,81380,1961-06-04,779854356
+1833,Paula,Hicks,Russia,Kushnarënkovo,Luster Plaza,243,1959-05-19,693119615
+1834,Cheryl,Kim,Indonesia,Urungpigang,Mcbride Lane,8995,1985-02-11,362574115
+1835,Theresa,Patterson,Philippines,Curuan,Manitowish Trail,49893,1944-11-19,236588242
+1836,Charles,Gonzalez,Sri Lanka,Horana South,Caliangt Junction,715,1975-12-20,749302983
+1837,Kimberly,Rodriguez,Russia,Smolenskaya,Magdeline Street,6200,1947-01-25,885411267
+1838,Brenda,Rivera,Indonesia,Girihieum,Acker Center,428,1954-02-12,946234197
+1839,Chris,Warren,Austria,Sankt Andrä-Höch,Ridgeview Way,8,1951-05-28,954920563
+1840,Jean,Carpenter,China,Jianshe,Main Point,9142,1986-12-04,313626120
+1841,Christina,Burns,France,Niort,Lukken Avenue,59,1952-03-24,180118635
+1842,Matthew,Wells,Thailand,Wichit,Milwaukee Park,7,1995-09-06,121809706
+1843,Timothy,Marshall,Indonesia,Wolometang,Brickson Park Circle,6445,1935-06-30,900535625
+1844,Julie,Frazier,China,Taoshan,Sullivan Park,3,1943-11-24,123500007
+1845,Diana,Porter,Albania,Moglicë,Fulton Circle,84,1982-07-03,849468123
+1846,Annie,Young,China,Tongda,Schlimgen Way,685,1960-01-16,229610525
+1847,Jessica,Mills,Poland,Kołbiel,Fallview Center,970,1954-10-31,992619486
+1848,Frances,Welch,Cameroon,Batouri,Butterfield Lane,04326,1967-03-11,920925697
+1849,Tammy,Lawrence,Norway,Bergen,Debs Terrace,74,1958-03-11,655850390
+1850,Johnny,Moore,Ukraine,Baryshivka,Steensland Lane,5,1975-03-12,322890323
+1851,Martha,Moore,South Africa,Kroonstad,Sachs Terrace,9755,1968-02-14,572986092
+1852,Scott,Hunter,Iran,Rey,Tomscot Place,9996,1988-03-12,736693082
+1853,Tammy,Pierce,Tunisia,Tunis,Jenna Center,71920,1935-01-01,755686280
+1854,Ann,Ruiz,Indonesia,Sukadana,7th Park,73,1964-09-25,294847801
+1855,Johnny,Walker,Russia,Miasskoye,Oak Road,8207,1934-02-14,436065476
+1856,Gregory,Gomez,Germany,Osnabrück,Riverside Crossing,0197,1965-09-24,491257704
+1857,Maria,Harper,Japan,Tanashichō,Emmet Place,32,1962-07-16,326566667
+1858,Scott,Willis,Sweden,Solna,Moland Point,8311,1938-10-18,593469151
+1859,David,Robinson,Indonesia,Cikandang,Judy Crossing,64487,1939-08-28,338398959
+1860,Louise,Lane,Philippines,Baliton,Independence Center,0,1930-10-15,554895306
+1861,Anna,Meyer,Greece,Néa Pélla,Moose Avenue,7145,1967-03-13,940026180
+1862,Daniel,Schmidt,China,Duanjia,Reinke Park,2304,1949-06-18,371572669
+1863,Virginia,Fisher,Indonesia,Paninggaran,Buena Vista Court,44,1931-10-30,727425193
+1864,Ruby,Crawford,China,Xiushan,Thackeray Circle,12069,1988-11-24,623278385
+1865,Deborah,Bradley,Indonesia,Gingsir,Londonderry Junction,683,1946-03-22,173907582
+1866,Deborah,Lane,Indonesia,Kasreman Wetan,Summerview Road,93568,1986-04-04,126955724
+1867,Norma,Kim,Philippines,Aganan,Bluestem Circle,382,1994-06-07,571547679
+1868,Helen,Wheeler,Serbia,Kraljevo,Milwaukee Lane,334,1959-08-18,712286563
+1869,Aaron,Nguyen,Madagascar,Andapa,4th Alley,990,1931-04-18,752386776
+1870,Joseph,Gordon,Indonesia,Kasingan,Old Gate Drive,654,1988-07-24,861624850
+1871,Joseph,Griffin,Azerbaijan,Martakert,Norway Maple Alley,40,1979-10-23,509703121
+1872,Victor,Mason,Pakistan,Tando Muhammad Khān,Texas Trail,77,1939-04-01,565306561
+1873,Antonio,Warren,China,Shazi,Farmco Street,8,1967-11-21,522120346
+1874,Michelle,Gordon,Pakistan,Bhawāna,Bluejay Parkway,1843,1963-10-29,379801347
+1875,Laura,Miller,Indonesia,Pahing Pamulihan,Springs Avenue,6625,1946-10-30,684752005
+1876,Roger,Myers,Indonesia,Sriwing,International Parkway,142,1934-08-05,586901589
+1877,Earl,Graham,Venezuela,Clarines,Clarendon Crossing,0046,1944-08-15,348474187
+1878,Benjamin,Wheeler,Spain,Santa Cruz De Tenerife,Anhalt Circle,70,1971-04-07,750760100
+1879,Bruce,Roberts,China,Yangchun,Kingsford Place,6,1955-10-08,927237597
+1880,Walter,Graham,Canada,Fort Macleod,Summer Ridge Pass,069,1969-06-14,664845213
+1881,Emily,Stewart,Indonesia,Lohong,Declaration Pass,22,1983-06-13,207700983
+1882,Carlos,Rodriguez,Tunisia,Tajerouine,Mcguire Point,7,1978-10-10,530891550
+1883,Karen,Green,United States,Philadelphia,Northridge Lane,681,1977-08-12,980494251
+1884,Roy,Gilbert,China,Shuitianzhuang,Bonner Alley,3,1984-04-13,435436706
+1885,Ralph,Bryant,South Africa,Wolmaransstad,Jay Circle,09071,1984-11-19,564844134
+1886,Jose,Parker,France,Digne-les-Bains,Dottie Junction,49507,1962-09-16,392454935
+1887,Harry,Gordon,Australia,Eastern Suburbs Mc,Hoard Plaza,31196,1994-12-16,387615854
+1888,Elizabeth,Hall,Poland,Brody,Sloan Terrace,09,1956-07-20,533022733
+1889,Catherine,Hansen,Russia,Nizhnyaya Tura,Amoth Hill,5052,1946-04-22,479200819
+1890,Nicole,Stone,Brazil,Francisco Beltrão,Center Circle,97,1949-12-15,995418435
+1891,Bobby,Rice,Indonesia,Klapagada,Starling Plaza,1,1961-10-03,707238874
+1892,Dorothy,Reyes,Nepal,Nepalgunj,Oriole Drive,3,1984-06-15,805475276
+1893,Bobby,Wells,Japan,Minami-rinkan,Sachs Drive,34038,1932-08-19,795167327
+1894,Jeffrey,Andrews,China,Acheng,Oak Alley,2950,1990-10-23,787227317
+1895,Evelyn,Moreno,China,Jinsha,Superior Way,90431,1991-06-17,739348309
+1896,Victor,Pierce,China,Shiliting,Hollow Ridge Junction,923,1937-10-11,325232118
+1897,Ronald,Wagner,United States,Lancaster,Mitchell Drive,873,1950-01-11,189933924
+1898,Robert,Payne,China,Dalu,Cordelia Terrace,28738,1986-10-20,600687040
+1899,Katherine,Nelson,Ukraine,Savran’,Drewry Junction,32,1954-04-26,693584565
+1900,Tina,Sanders,Peru,Huacrachuco,Ridgeview Parkway,3,1988-09-24,226993400
+1901,Louis,Payne,Indonesia,Dukuhmencek Lor,East Trail,30,1981-01-26,287710010
+1902,Mark,Gomez,Brazil,Antonina,Burrows Circle,37663,1939-10-05,955577992
+1903,Kelly,Hawkins,Russia,Ivanishchi,Westport Parkway,4,1955-04-12,893171675
+1904,Peter,Riley,Vietnam,Hậu Nghĩa,Moose Center,28015,1991-04-05,196245367
+1905,Judith,Campbell,Poland,Radymno,Hudson Drive,96118,1954-07-31,179980711
+1906,Kathy,Castillo,France,Golbey,Ohio Street,59,1937-03-12,504592785
+1907,Kathleen,Greene,United States,Des Moines,Oakridge Drive,422,1953-08-07,770477959
+1908,Anna,Scott,United States,Young America,Golf View Hill,5434,1939-02-27,850616914
+1909,Maria,Little,Czech Republic,Řečany nad Labem,Butterfield Junction,91,1945-04-18,280880750
+1910,Christine,Elliott,Serbia,Apatin,Ludington Street,56866,1950-03-29,195869567
+1911,Keith,Crawford,China,Fucheng,Cottonwood Way,511,1977-10-27,208039477
+1912,George,Marshall,China,Yangchun,Helena Hill,2112,1959-07-18,993019137
+1913,Joseph,Bailey,Russia,Fastovetskaya,Fordem Alley,4,1956-02-21,899582430
+1914,Timothy,Thomas,Venezuela,Mene de Mauroa,Dayton Alley,8,1963-07-29,495150340
+1915,Jane,Garrett,Canada,Strathmore,Marcy Lane,8734,1974-11-12,568294873
+1916,Doris,Gardner,France,Tarbes,Village Green Lane,58,1949-06-06,237945146
+1917,Joyce,Sanchez,Cuba,Cerro,Carioca Avenue,87,1985-04-14,489878202
+1918,Betty,Wood,China,Bangshipu,8th Parkway,832,1968-06-10,867592821
+1919,Paula,Jacobs,Argentina,Mattaldi,Morning Drive,270,1984-12-09,677538996
+1920,Charles,Bailey,Serbia,Bukor,Banding Street,72,1989-12-01,476316500
+1921,Amanda,Patterson,Kazakhstan,Ülken,Prairieview Road,05279,1991-12-21,224278559
+1922,Emily,Sanchez,Indonesia,Kapakabisa,Burning Wood Point,970,1941-02-18,656787088
+1923,Helen,Dixon,Syria,As Sawdā,Ilene Court,14696,1956-09-03,860098753
+1924,Randy,Stewart,Sweden,Uppsala,Burning Wood Place,079,1976-01-22,362429106
+1925,Sharon,Stevens,Russia,Mendeleyevo,Mosinee Way,8,1934-11-21,945247846
+1926,Carl,Berry,Indonesia,Hane,Del Sol Trail,85,1990-10-07,249065190
+1927,Stephanie,Watkins,Iran,Shādegān,Duke Way,445,1941-12-01,403623100
+1928,Kathryn,Campbell,Indonesia,Rokem Barat,Fordem Drive,9,1934-11-10,576820548
+1929,Benjamin,Jordan,Cyprus,Liopétri,Shoshone Lane,9,1945-04-16,518753851
+1930,Janice,Stanley,Kazakhstan,Semey,Annamark Hill,079,1941-04-16,937714229
+1931,Louis,Simpson,China,Zhangshui,Gulseth Pass,3,1957-02-12,789213765
+1932,Janet,Rogers,Ivory Coast,Akoupé,Lakewood Gardens Drive,90435,1937-10-09,973353518
+1933,Andrew,Tucker,Ukraine,Brody,Eagan Parkway,8979,1965-10-22,318823614
+1934,Joan,Kelly,Panama,Pacora,Mccormick Lane,4697,1952-06-24,111806521
+1935,Earl,Clark,China,Tanbu,Judy Way,7054,1950-04-01,629825070
+1936,Bonnie,Welch,France,Paris 02,Center Circle,774,1964-09-14,135136014
+1937,Kimberly,Kim,United States,Danbury,Jana Trail,9,1997-11-25,599712802
+1938,Victor,Ray,China,Sandaogou,Pond Place,974,1949-01-23,698636403
+1939,Michelle,Johnston,Thailand,Phu Luang,Meadow Ridge Point,0,1951-12-29,731778134
+1940,Diana,Williams,Indonesia,Pali,Talisman Terrace,864,1962-11-18,605396267
+1941,Donald,Cunningham,Philippines,Lanuza,Fairview Plaza,441,1950-02-22,398499075
+1942,Mark,Adams,China,Yanjiang,Ryan Hill,570,1944-02-28,143871513
+1943,Sandra,Garza,Ukraine,Turiys’k,Spaight Point,44,1951-03-21,195976264
+1944,Christine,Gray,China,Jinggan,Del Sol Junction,580,1979-10-19,178509836
+1945,Christopher,Taylor,Philippines,Malabang,Canary Crossing,06937,1996-09-19,338324954
+1946,Janice,Murray,China,Wenwusha,Florence Junction,739,1949-04-28,109037382
+1947,Raymond,Weaver,Paraguay,Doctor Juan León Mallorquín,Nobel Plaza,20258,1996-04-13,124355094
+1948,Steve,Evans,France,Roubaix,Melby Parkway,949,1984-10-28,755244563
+1949,Janet,Carter,Philippines,Naval,Sloan Drive,1,1933-10-25,499677706
+1950,Carlos,Woods,Japan,Shimabara,Delaware Circle,94,1985-06-23,545944160
+1951,Antonio,Boyd,Peru,Choros,Judy Crossing,88,1969-05-31,701855307
+1952,Helen,Bryant,Equatorial Guinea,Río Campo,Moulton Parkway,88,1945-10-13,813291555
+1953,Karen,Burke,South Korea,Suisan,Maple Wood Pass,34,1997-12-13,569619747
+1954,Walter,Warren,China,Lipu,Dwight Plaza,570,1966-05-28,206894146
+1955,Justin,Wells,Sweden,Göteborg,Lindbergh Terrace,7,1943-02-10,643602391
+1956,Martha,Mitchell,China,Huazangsi,Namekagon Hill,4,1958-02-25,765472978
+1957,Shirley,Murphy,Ireland,Caherconlish,Jana Avenue,480,1943-10-12,419071494
+1958,Alan,Gonzalez,France,Rennes,Fuller Crossing,38,1993-04-09,130417876
+1959,Christina,Hunt,Argentina,San José de Jáchal,Burrows Way,137,1978-04-14,375054426
+1960,Aaron,Dunn,Slovenia,Turnišče,Basil Center,1,1941-01-01,829001436
+1961,Nancy,Perkins,Russia,Chemal,Bultman Circle,00223,1956-07-16,984817181
+1962,Dennis,Greene,Brazil,Pilar,Maryland Alley,1,1996-09-05,168583824
+1963,Ann,Gibson,Brazil,Itinga,Hoffman Street,40,1973-10-02,693981728
+1964,Jane,Simmons,Philippines,San Vicente,Twin Pines Junction,41522,1991-03-25,814383931
+1965,Teresa,Mills,Armenia,Saratak,Artisan Parkway,366,1989-08-27,695173048
+1966,Lois,Olson,Myanmar,Mogok,Katie Center,5,1935-05-17,785286912
+1967,Lisa,Wood,Portugal,Barreiras,Springs Point,12,1992-01-03,787254373
+1968,Samuel,Harvey,Mexico,El Salitre,Pawling Drive,48738,1992-02-27,748397792
+1969,Rebecca,Nguyen,Chile,Vallenar,Jenifer Crossing,01,1936-04-18,540969097
+1970,Christopher,James,Poland,Sarnaki,Hovde Point,7992,1944-05-05,378997128
+1971,Martha,Rose,Argentina,Villa Nueva,Merry Place,68880,1944-04-15,356376983
+1972,Keith,Gilbert,China,Jixiang,Upham Parkway,70,1988-07-29,424803942
+1973,Jack,Miller,China,Jiaqiao,Rutledge Road,55169,1944-06-22,408712992
+1974,Steven,Parker,Azerbaijan,Digah,Welch Terrace,59088,1958-11-26,676539836
+1975,Carol,Walker,United States,Daytona Beach,Lotheville Street,30442,1961-08-30,442132657
+1976,Kimberly,Cox,China,Hengjie,Shasta Drive,8,1947-10-28,631808649
+1977,Phillip,Mason,Ukraine,Soledar,Nobel Center,4958,1948-06-09,530186067
+1978,Craig,Hall,South Africa,Kakamas,Birchwood Trail,9,1953-10-23,962301840
+1979,Angela,Wallace,United Kingdom,Liverpool,Hovde Crossing,3247,1980-04-03,417515331
+1980,Rachel,Stevens,Indonesia,Sukaraharja,Marquette Center,9,1973-11-09,403199834
+1981,Sarah,Murray,Croatia,Markušica,Pawling Alley,7,1993-12-04,807966802
+1982,Ann,Welch,China,Zhanlong,Oneill Trail,21,1980-08-06,687166591
+1983,Joe,Cook,United States,Winter Haven,Superior Plaza,8,1941-09-18,398494605
+1984,Catherine,Gray,China,Lifuta,Farwell Place,70434,1983-06-06,311178901
+1985,Edward,Warren,Japan,Aso,Hollow Ridge Circle,6156,1985-09-15,555495169
+1986,Michael,Martinez,Japan,Nagasaki-shi,Forest Plaza,0,1984-02-18,860333702
+1987,Jeremy,Cox,El Salvador,San Salvador,Tennyson Drive,65039,1975-09-19,102576183
+1988,Earl,Wallace,Cuba,Pedro Betancourt,Memorial Point,989,1984-04-29,786060348
+1989,Sarah,Kelley,China,Zhangdun,Carberry Street,8955,1961-09-28,437499804
+1990,Ralph,Stone,Serbia,Inđija,Columbus Plaza,958,1960-03-17,302912057
+1991,Jack,Roberts,Ecuador,El Ángel,Eastlawn Park,8927,1985-08-12,518485978
+1992,Harry,Snyder,Sweden,Sundbyberg,Carioca Center,4,1980-09-26,851342915
+1993,Robert,Perry,China,Kanshan,Fulton Court,24,1958-01-09,108148359
+1994,Ronald,Jordan,Brazil,Amargosa,Forest Dale Street,35594,1963-02-18,749672502
+1995,Benjamin,Jenkins,Serbia,Adorjan,Norway Maple Trail,6,1945-05-09,693819603
+1996,Jeffrey,Hall,France,Auxerre,Sutherland Trail,686,1952-01-21,317797428
+1997,Terry,Webb,Uruguay,Santa Rosa,Heffernan Terrace,2704,1962-09-15,637542740
+1998,Albert,Howard,Indonesia,Bajo,Quincy Junction,108,1979-02-22,660180243
+1999,Andrea,Gilbert,France,Lyon,Lyons Point,0164,1981-09-07,964006287
+2000,Arthur,Garrett,Philippines,Matalam,Shasta Way,0645,1965-03-06,826334325
+2001,Patrick,Frazier,Japan,Ishikari,Shasta Place,19614,1968-04-17,631006212
+2002,Willie,Long,Cambodia,Phumĭ Véal Srê,Fairfield Alley,1,1996-12-15,579038342
+2003,Carol,Chavez,Argentina,Bella Vista,Redwing Junction,97,1983-10-26,436051345
+2004,Rose,Wood,China,Nandulehe,Golden Leaf Drive,3,1982-11-15,178308189
+2005,Russell,Cunningham,Russia,Nizhnyaya Tavda,Cottonwood Avenue,76453,1962-04-07,555086401
+2006,Teresa,Cunningham,Greece,Týrnavos,Farwell Drive,94,1934-02-11,725436506
+2007,Ruth,Carter,Togo,Lomé,Pearson Drive,97821,1964-08-05,350128337
+2008,Mark,Snyder,Czech Republic,Dřiteň,Fairview Terrace,65,1967-05-26,729239791
+2009,Lois,Cox,Argentina,Arroyo Seco,Little Fleur Lane,34,1964-01-09,854030314
+2010,Brenda,Wheeler,Portugal,Almargem do Bispo,Sheridan Junction,32391,1969-10-08,190064600
+2011,Sarah,Johnston,Vietnam,Thị Trấn Tam Sơn,Delaware Trail,0127,1987-04-10,329030492
+2012,Dorothy,Black,China,Dongmaku,Fairview Pass,19966,1973-07-21,713313681
+2013,Walter,West,Reunion,Saint-Pierre,Surrey Place,32369,1930-11-21,176714009
+2014,Andrew,Allen,Indonesia,Sindangrasa,Little Fleur Pass,09912,1974-08-02,499601630
+2015,William,Perry,Angola,Uíge,Meadow Vale Court,45,1992-04-19,769282032
+2016,Judy,Riley,China,Yongheshi,Gale Road,6866,1951-12-22,719466000
+2017,Sandra,Lawson,Italy,Genova,Esch Park,92901,1988-05-01,464074878
+2018,Richard,Hall,Argentina,Rawson,Larry Street,7381,1930-03-24,848368419
+2019,Ernest,Johnston,Finland,Lieksa,Lake View Circle,393,1972-05-23,308526451
+2020,Emily,Palmer,Central African Republic,Alindao,Nelson Drive,35445,1957-06-11,550450589
+2021,Harry,Cruz,Uganda,Ngora,Sage Circle,45230,1967-04-20,434983901
+2022,Betty,White,Philippines,Malibong East,Tomscot Road,4431,1990-11-09,434905550
+2023,Kimberly,Carter,Brazil,Aracati,Claremont Center,47470,1937-02-09,132102470
+2024,Benjamin,Black,Mexico,San Martin,Arizona Alley,29152,1931-08-09,220423916
+2025,Willie,Harper,Benin,Natitingou,3rd Lane,844,1985-10-11,271478972
+2026,Annie,Franklin,Honduras,Yoro,Sunbrook Place,95,1982-01-21,877433787
+2027,Lillian,Palmer,China,Yinkeng,Kingsford Trail,0398,1935-03-17,121821483
+2028,Kevin,Turner,France,Noyelles-sous-Lens,Ludington Road,46,1974-08-21,829524523
+2029,Carol,Armstrong,China,Jianguo,Carioca Place,0337,1948-12-23,637644055
+2030,Melissa,Lewis,Libya,Tūkrah,Brown Pass,49053,1954-07-11,630595809
+2031,Judith,Clark,Vietnam,Chợ Lầu,Dunning Pass,849,1954-03-26,112189333
+2032,Brenda,Wheeler,China,Tieremu,Southridge Drive,061,1950-08-13,201524256
+2033,Evelyn,Arnold,Philippines,Albuera,Dorton Avenue,07,1948-05-12,538867514
+2034,Kimberly,Nichols,Palestinian Territory,Al Hāshimīyah,Packers Alley,77791,1981-09-06,477317864
+2035,Maria,Spencer,Ukraine,Prosyana,Monica Park,5799,1937-02-02,101243683
+2036,Amanda,Clark,Philippines,Cayungnan,Cordelia Point,532,1978-05-24,795299780
+2037,Clarence,Simmons,Bangladesh,Rāmganj,Kenwood Alley,77,1949-02-19,706093304
+2038,Jennifer,Arnold,China,Xijia,Dahle Terrace,0,1995-04-09,517115144
+2039,Chris,Mccoy,Czech Republic,Staré Město,Eliot Drive,68707,1993-08-31,157946174
+2040,Jose,Mills,Russia,Belgorod,North Terrace,2833,1943-01-31,327049003
+2041,Stephanie,Williams,Brazil,Paraisópolis,Manitowish Trail,548,1960-01-31,315053971
+2042,Helen,King,Mongolia,Jargalant,Moland Hill,8,1968-06-16,493687063
+2043,Peter,Campbell,Macedonia,Crnilište,School Terrace,12,1982-01-07,570904371
+2044,Shirley,Davis,Philippines,Carmen,Monica Junction,2644,1988-06-30,170718854
+2045,Amanda,Wood,Peru,Huanchaco,Moose Street,20,1966-04-25,133018705
+2046,Kimberly,Fox,Brazil,Macatuba,Center Place,123,1939-12-30,938659506
+2047,Willie,Bailey,South Sudan,Raga,Comanche Pass,5,1934-04-10,506372368
+2048,Roy,Nichols,China,Jihui,Morningstar Place,3124,1993-03-24,687295271
+2049,Timothy,Simpson,Indonesia,Makbon,Alpine Plaza,7,1990-10-23,999414076
+2050,Theresa,Mccoy,Iran,Langarūd,Wayridge Street,653,1959-09-23,485807219
+2051,Cheryl,Simpson,Somalia,Ceerigaabo,Coleman Trail,6,1943-03-13,802946603
+2052,Joyce,Grant,New Zealand,Levin,Lake View Lane,28,1950-06-25,500854894
+2053,Mark,Kim,Thailand,Tha Bo,Chinook Junction,14019,1958-03-07,323312285
+2054,Marilyn,Rose,Iran,Mākū,Burning Wood Park,5628,1955-12-28,427265552
+2055,Charles,Martinez,Poland,Duczki,Dunning Place,28805,1984-07-23,488332115
+2056,Susan,Warren,China,Ligonggang,Graedel Alley,7997,1935-08-25,226276188
+2057,Roy,Berry,Armenia,Griboyedov,Armistice Hill,97,1953-03-20,954990216
+2058,Cheryl,Clark,France,Puteaux,Texas Lane,263,1953-10-16,311461804
+2059,Victor,Hunt,China,Babao,Memorial Place,35,1946-03-05,916674826
+2060,Ryan,Morales,Philippines,Ponong,Boyd Road,871,1979-10-15,449232550
+2061,Craig,Black,Russia,Revda,Oxford Hill,2,1939-03-05,344298912
+2062,Bobby,Armstrong,Brazil,Miguelópolis,Truax Street,61388,1949-12-07,232849087
+2063,Carol,Foster,Macedonia,Kisela Voda,Parkside Parkway,91521,1990-03-08,601180747
+2064,Virginia,Gibson,Sweden,Stockholm,Nancy Lane,5,1943-10-01,862472438
+2065,Terry,Carroll,Poland,Krzynowłoga Mała,2nd Place,46,1947-12-08,604628469
+2066,Joyce,Medina,Poland,Zielonki,Toban Court,91229,1932-05-04,543646375
+2067,Heather,Romero,China,Xinyang,Vidon Alley,99253,1966-11-11,306570002
+2068,Helen,Nelson,Honduras,Cucuyagua,Maywood Crossing,905,1976-04-18,134621006
+2069,Sarah,Fields,Portugal,Vale da Bajouca,Iowa Center,82,1953-03-11,292595283
+2070,Janet,Burton,China,Wengang,Donald Road,98465,1970-07-18,338551744
+2071,Carlos,Mcdonald,Brazil,Ubatã,Surrey Plaza,9,1985-09-28,259619185
+2072,Christopher,Harvey,Portugal,Pexiligais,Clove Park,85479,1955-11-21,315109701
+2073,Carolyn,King,China,Jiamiao,Lyons Hill,57,1988-07-16,595710007
+2074,William,Hunt,Mexico,Lazaro Cardenas,Meadow Ridge Trail,40,1988-02-03,718449818
+2075,Joan,Black,Greece,Athens,Debs Court,53,1974-05-14,101850549
+2076,Stephanie,Evans,Russia,Strezhevoy,New Castle Pass,4029,1952-12-07,424215950
+2077,Roy,Fields,Russia,Bobrovka,Esker Road,43940,1985-03-17,957755610
+2078,Matthew,Bailey,Russia,Khilok,Marcy Alley,9803,1966-07-20,993652115
+2079,Wanda,Gonzales,Philippines,Magalalag,Michigan Avenue,1,1964-07-17,675018156
+2080,Carl,Willis,Poland,Kwidzyn,Pepper Wood Alley,5202,1947-08-05,223516710
+2081,Heather,Hicks,France,Montpellier,Norway Maple Way,31536,1993-01-15,929402277
+2082,Aaron,Williamson,Russia,Segezha,Bowman Way,898,1931-09-25,345705313
+2083,Gary,Freeman,Indonesia,Randegan,Eliot Terrace,196,1983-10-29,638335708
+2084,Margaret,Martinez,Sweden,Ludvika,Melby Crossing,96,1949-09-12,313993826
+2085,Beverly,Montgomery,Mauritius,Ebene,Graceland Road,05,1930-09-23,943712929
+2086,Barbara,Flores,Malta,Saint John,Quincy Junction,1477,1945-06-17,929213583
+2087,Daniel,Dixon,Indonesia,Persen,Bluejay Alley,874,1985-08-30,741714618
+2088,Carolyn,Hudson,China,Daya,Charing Cross Center,850,1943-06-22,873904672
+2089,Jack,Price,Nigeria,Yola,Nevada Hill,4,1966-07-09,137747837
+2090,Gary,Reed,Indonesia,Gayam,Garrison Center,7670,1984-05-08,364210181
+2091,Stephen,Thomas,Comoros,Ouzini,Dayton Place,294,1953-09-28,366780381
+2092,Kathleen,Brown,Finland,Asikkala,Mockingbird Avenue,38,1992-01-27,827858950
+2093,Rose,Fisher,Philippines,Montaneza,Kedzie Court,85132,1997-04-06,836214901
+2094,Dorothy,Reid,Philippines,San Lucas,Delaware Court,46494,1993-09-26,731516760
+2095,Douglas,Fernandez,China,Changtu,Warner Avenue,97275,1953-05-13,431114323
+2096,Nicole,Ryan,Micronesia,Sorol,Shelley Junction,873,1991-06-29,877981184
+2097,Phillip,Daniels,Bahamas,Masons Bay,Pond Road,88901,1949-09-12,263728477
+2098,Ryan,Oliver,Czech Republic,Stará Huť,Warbler Park,48,1948-10-26,662474984
+2099,Fred,Wright,China,Mufushan,Heffernan Park,8,1989-12-17,734096684
+2100,Katherine,Wilson,Brazil,Itambé,Anzinger Hill,7,1982-10-17,682602391
+2101,Michelle,Ellis,China,Geyuan,Gina Junction,40383,1938-12-10,767174542
+2102,Edward,Black,Brazil,Uarini,7th Center,1,1974-09-11,542974132
+2103,Dennis,Thomas,Venezuela,Rubio,Killdeer Road,38260,1952-05-12,606392090
+2104,Carl,Peterson,Afghanistan,Bala Murghab,Emmet Circle,9604,1981-04-19,425933206
+2105,Gerald,Griffin,Brazil,Padre Bernardo,Mendota Terrace,5,1952-05-02,409256021
+2106,Jose,Lawson,Morocco,Telouet,South Lane,3,1941-07-28,336678092
+2107,William,Williamson,Poland,Ryczywół,Miller Parkway,51,1955-12-13,502911172
+2108,Jeremy,Turner,Philippines,Luklukan,Transport Crossing,06555,1971-07-16,415647416
+2109,Philip,Daniels,Madagascar,Faratsiho,Mcguire Point,6364,1990-04-30,607020598
+2110,David,Morgan,Canada,Cache Creek,Golden Leaf Lane,5915,1940-09-10,916463444
